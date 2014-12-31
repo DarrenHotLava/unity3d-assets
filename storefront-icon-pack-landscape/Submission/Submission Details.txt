@@ -1,0 +1,54 @@
+PACKAGE TITLE
+==============================
+Storefront Icon Pack - Portrait
+
+
+
+PACKAGE DESCRIPTION
+==============================
+A collection of graphics to use for creating store screens in your game.  <br>
+<strong>This package contains:</strong><br>
+- 11 different themes for storefronts<br>
+- More than 500 images<br>
+- More than 30 fonts<br>
+
+<br>
+
+<strong>Each theme contains PNG image slices of:</strong><br>
+- Virtual goods<br>
+- Currencies<br>
+- Currency packs<br>
+- Menus<br>
+- Backgrounds<br>
+- Buttons<br>
+
+<br>
+
+These graphics are provided gratitously by SOOMLA.  Feel free to rate \ review us.
+<br><br>
+
+Also check out our other projects: <br>
+- <strong>SOOMLA Store</strong> - Virtual economies and in app purchases.<br>
+- <strong>SOOMLA Profile</strong> - Connect your game to social networks and reward users.<br>
+- <strong>SOOMLA LevelUp</strong> - Game design library. Business Logic for worlds, levels, missions, scores and more.<br>
+
+<br><br>
+More info at:<br>
+Website - <a href="http://soom.la/">http://soom.la/</a><br>
+Knowledge Base - <a href="http://know.soom.la/">http://know.soom.la/</a><br>
+Forum - <a href="http://answers.soom.la/">http://answers.soom.la/</a><br>
+
+
+
+The following HTML tags are allowed in your description text: <em> <strong> <a> and <br>. Styles, class and id attributes are not allowed. Use of <br> (not </br>) to insert line breaks.
+
+
+
+
+CATEGORY
+==============================
+Textures and Materials
+
+PRICES
+==============================
+Free
