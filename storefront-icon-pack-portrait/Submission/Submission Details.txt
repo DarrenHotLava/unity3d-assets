@@ -1,0 +1,54 @@
+PACKAGE TITLE
+==============================
+Storefront Icon Pack - Portrait
+
+
+
+PACKAGE DESCRIPTION
+==============================
+A collection of graphics to use for creating store screens in your game.  <br>
+<strong>This package contains:</strong><br>
+- 11 different themes for storefronts<br>
+- More than 500 images<br>
+- More than 30 fonts<br>
+
+<br>
+
+<strong>Each theme contains PNG image slices of:</strong><br>
+- Virtual goods<br>
+- Currencies<br>
+- Currency packs<br>
+- Menus<br>
+- Backgrounds<br>
+- Buttons<br>
+- Additional: font type files<br>
+
+<br>
+
+These graphics are provided gratitously by SOOMLA.  Feel free to rate \ review us.
+<br><br>
+
+Also check out our other projects: <br>
+- <strong>SOOMLA Store</strong> - Virtual economies and IAP.<br>
+- <strong>SOOMLA Profile</strong> - Add Social Networking.<br>
+- <strong>SOOMLA LevelUp</strong> - Design worlds, levels etc.<br>
+
+<br>
+-------------------------------
+<br>
+More info at:<br>
+Website - <a href="http://soom.la/">http://soom.la/</a><br>
+Knowledge Base - <a href="http://know.soom.la/">http://know.soom.la/</a><br>
+Forum - <a href="http://answers.soom.la/">http://answers.soom.la/</a><br>
+
+
+
+
+
+CATEGORY
+==============================
+Textures and Materials
+
+PRICES
+==============================
+Free
