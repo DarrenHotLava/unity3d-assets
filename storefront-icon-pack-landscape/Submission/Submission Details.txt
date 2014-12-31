@@ -8,9 +8,9 @@ PACKAGE DESCRIPTION
 ==============================
 A collection of graphics to use for creating store screens in your game.  <br>
 <strong>This package contains:</strong><br>
-- 11 different themes for storefronts<br>
-- More than 500 images<br>
-- More than 30 fonts<br>
+- 7 different themes for lanscape storefronts<br>
+- More than 400 images<br>
+- More than 15 fonts<br>
 
 <br>
 
@@ -24,7 +24,7 @@ A collection of graphics to use for creating store screens in your game.  <br>
 
 <br>
 
-These graphics are provided gratitously by SOOMLA.  Feel free to rate \ review us.
+These graphics are provided gratuitously by SOOMLA.  Feel free to rate \ review us.
 <br><br>
 
 Also check out our other projects: <br>
