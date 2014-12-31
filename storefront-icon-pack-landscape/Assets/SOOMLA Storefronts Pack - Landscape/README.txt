@@ -3,7 +3,7 @@ All images are free to use in your game.
 
 All images were created by SOOMLA as part of the Storefronts solution, and are now being distributed freely in the Unity Asset Store.
 
---- Other asset by SOOMLA ---
+--- Other Assets by SOOMLA ---
 
 SOOMLA Store - Virtual Economies & In App Purchases.  Supports Google Play, iTunesConnect & Amazon.
 SOOMLA Profile - Connect your game to social networks. Supports Facebook, Twitter & Google+.
