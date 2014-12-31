@@ -1,6 +1,6 @@
 PACKAGE TITLE
 ==============================
-Storefront Icon Pack - Portrait
+Storefront Icon Pack - Landscape
 
 
 
