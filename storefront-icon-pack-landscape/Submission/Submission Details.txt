@@ -8,7 +8,7 @@ PACKAGE DESCRIPTION
 ==============================
 A collection of graphics to use for creating store screens in your game.  <br>
 <strong>This package contains:</strong><br>
-- 7 different themes for lanscape storefronts<br>
+- 7 different themes for landscape storefronts<br>
 - More than 400 images<br>
 - More than 15 fonts<br>
 
