@@ -1,0 +1,46 @@
+PACKAGE TITLE
+==============================
+SOOMLA Unity Store - In App Purchase
+
+
+PACKAGE DESCRIPTION
+==============================
+All free to play games use IAP to monetize. SOOMLA offers you a free and easy way to do this. Our Unity <strong>in-app purchaes</strong> plugin is the best tool to model your virtual economy and integrate IAP into your game.
+<br>
+<br>
+** Thousands of games already use SOOMLA **
+<br>
+<br>
+<a href="http://soom.la">Website</a> | <a href="http://know.soom.la/unity/store/">Docs</a> | <a href="http://know.soom.la/docs/university/videos/">Videos</a> | <a href="http://answers.soom.la">Forum</a><br>
+<br>
+In addition to modeling and easy to use IAP this plugin will provide you with encrypted on-device storage and a single API to do all your virtual economy operations. SOOMLA for Unity is available for <strong>iOS / Android / Amazon</strong>.
+<br>
+<br>
+
+<strong>Instructional Videos</strong><br>
+------------------<br>
+* <a href="http://youtu.be/59aTzSNoJbQ">Getting Started - Android</a><br>
+* <a href="http://youtu.be/OjCqvWogLtg">Getting Stareted - iOS</a><br>
+* <a href="http://youtu.be/geQ1Cx1B-ao">Remove Ads Example - Android</a><br>
+* <a href="http://youtu.be/ZQN-com1Pyg">Remove Ads Example- iOS</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">60 Second Checklist</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">Market Items 101</a><br>
+
+<br>
+More docs and articles at: <a href="http://know.soom.la">http://know.soom.la</a><br>
+Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
+
+
+
+The following HTML tags are allowed in your description text: <em> <strong> <a> and <br>. Styles, class and id attributes are not allowed. Use of <br> (not </br>) to insert line breaks.
+
+
+
+
+CATEGORY
+==============================
+Scripting > Integration
+
+PRICES
+==============================
+Free
