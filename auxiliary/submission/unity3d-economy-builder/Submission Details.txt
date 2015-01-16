@@ -1,0 +1,42 @@
+PACKAGE TITLE
+==============================
+In App Purchase Builder
+
+
+PACKAGE DESCRIPTION
+==============================
+Easily add in app purchase to your game with our editor extension.  Sell coins, "remove ads", or any other virtual good. This plugin comes with the <a href="https://www.assetstore.unity3d.com/en/#!/content/6103">SOOMLA Store package</a> baked in, and compliments it with an editor extension for building virtual economies without coding.  Here's what you get:<br><br>
+- An editor extension to build your economy<br>
+- A rich economy model<br>
+- Simple management of user balances<br>
+- Encrypted on-device storage<br>
+- Supported billing: Apple, Google & Amazon<br>
+- One API for all platforms<br>
+<br>
+<br>
+If you already use SOOMLA, this plugin is exactly what you need.  All free to play games use IAP to monetize. SOOMLA offers you a free and easy way to do this. Our Unity <strong>in-app purchase</strong> plugin is the best tool to model your virtual economy and integrate IAP into your game.
+<br>
+<br>
+** Thousands of games already use SOOMLA **
+<br>
+<br>
+<a href="http://soom.la">Website</a> | <a href="http://know.soom.la/unity/store/">Docs</a> | <a href="http://know.soom.la/docs/university/videos/">Videos</a> | <a href="http://answers.soom.la">Forum</a><br>
+<br>
+<br>
+More docs and articles at: <a href="http://know.soom.la">http://know.soom.la</a><br>
+Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
+
+
+
+The following HTML tags are allowed in your description text: <em> <strong> <a> and <br>. Styles, class and id attributes are not allowed. Use of <br> (not </br>) to insert line breaks.
+
+
+
+
+CATEGORY
+==============================
+Scripting > Integration
+
+PRICES
+==============================
+Free
