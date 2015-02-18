@@ -5,15 +5,16 @@ SOOMLA Unity Store - In App Purchase
 
 PACKAGE DESCRIPTION
 ==============================
-All free to play games use IAP to monetize. SOOMLA offers you a free and easy way to do this. Our Unity <strong>in-app purchaes</strong> plugin is the best tool to model your virtual economy and integrate IAP into your game.
-<br>
-<br>
-** Thousands of games already use SOOMLA **
-<br>
+Easily add in app purchase to your game.  SOOMLA Store lets you build anything from a simple "Remove Ads" button to elaborate virtual economies with coins, goods, upgrades and coin packs.  With this plugin you get: <br>
+- A rich economy model<br>
+- Simple management of user balances<br>
+- Encrypted on-device storage<br>
+- One API for all platforms<br>
+- Supported billing: Apple App Store, Google Play & Amazon<br>
 <br>
 <a href="http://soom.la">Website</a> | <a href="http://know.soom.la/unity/store/">Docs</a> | <a href="http://know.soom.la/docs/university/videos/">Videos</a> | <a href="http://answers.soom.la">Forum</a><br>
 <br>
-In addition to modeling and easy to use IAP this plugin will provide you with encrypted on-device storage and a single API to do all your virtual economy operations. SOOMLA for Unity is available for <strong>iOS / Android / Amazon</strong>.
+** Thousands of games already use SOOMLA **
 <br>
 <br>
 
@@ -26,7 +27,11 @@ In addition to modeling and easy to use IAP this plugin will provide you with en
 * <a href="http://youtu.be/8FMtxt4AY_8">60 Second Checklist</a><br>
 * <a href="http://youtu.be/8FMtxt4AY_8">Market Items 101</a><br>
 
-<br>
+<br><br>
+
+Not sure which IAP plugin to use? We've compared SOOMLA, Unibill, Prime31 & Codiwans in <a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">this blog post</a>.
+<br><br>
+
 More docs and articles at: <a href="http://know.soom.la">http://know.soom.la</a><br>
 Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
 
