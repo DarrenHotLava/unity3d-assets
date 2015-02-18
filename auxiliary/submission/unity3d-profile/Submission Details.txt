@@ -1,0 +1,67 @@
+PACKAGE TITLE
+==============================
+Profile - Facebook, Twitter, Google+ Social SDK
+
+
+PACKAGE DESCRIPTION
+==============================
+Socialize your games! Our Unity <strong>Profile</strong> plugin is the best tool to integrate Social networks into your game.
+We support <strong>Facebook</strong>,  <strong>Twitter</strong> and <strong>Google+</strong> ! All major social networks in one plugin with the same API!
+
+<br>
+<br>
+** Thousands of games already use SOOMLA **
+<br>
+<br>
+<a href="http://soom.la">Website</a> | <a href="http://know.soom.la/unity/profile/">Docs</a> | <a href="http://know.soom.la/docs/university/videos/">Videos</a> | <a href="http://answers.soom.la">Forum</a>
+<br>
+<br>
+With this plugin you can boost your game with:<br>
+- Social Login<br>
+- Like<br>
+- Rate App<br>
+- Invite Friends<br>
+- Share Status<br>
+- Upload Image<br>
+- Get Contacts<br>
+- Get Feed<br>
+<br>
+<strong>All with one unified API for all social networks.</strong>
+<br>
+<br>
+
+
+In addition to easy integration with multiple social providers this library will provide you with encrypted on-device storage that will keep the user's data after closing the game. SOOMLA for Unity is available for <strong>iOS and Android</strong>.
+<br>
+<br>
+Make sure to go over the <a href="http://github.com/soomla/unity3d-profile">integration instructions</a> and <a href="https://github.com/soomla/unity3d-profile#whats-next-selecting-social-providers">how to integrate social providers</a>
+<br>
+<br>
+
+Open Source project: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
+More docs and articles at: <a href="http://know.soom.la">http://know.soom.la</a><br>
+Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
+
+
+
+The following HTML tags are allowed in your description text: <em> <strong> <a> and <br>. Styles, class and id attributes are not allowed. Use of <br> (not </br>) to insert line breaks.
+
+
+
+
+CATEGORY
+==============================
+Scripting > Integration
+
+PRICES
+==============================
+Free
+
+
+PROCESS
+==============================
+- Pull and clean the repo + submodules
+- Open project in Unity
+- Run mass labeller script
+- Delete /Assets/Facebook and /Assets/Plugins/Facebook
+- Upload with Asset Store Tools (select root /Assets folder)
