@@ -61,7 +61,9 @@ Free
 PROCESS
 ==============================
 - Pull and clean the repo + submodules
+- Switch to latest tag
 - Open project in Unity
 - Run mass labeller script
+- Switch back to the Unity Editor and let it re-import
 - Delete /Assets/Facebook and /Assets/Plugins/Facebook
 - Upload with Asset Store Tools (select root /Assets folder)
