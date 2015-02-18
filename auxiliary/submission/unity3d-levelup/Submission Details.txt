@@ -1,0 +1,66 @@
+PACKAGE TITLE
+==============================
+LevelUp - Design Levels
+
+
+PACKAGE DESCRIPTION
+==============================
+
+Design and Control your games better! <strong>SOOMLA LevelUp</strong> is a free and open-source plugin that empowers you to build your game's scheme of worlds and levels, while incorporating progression, difficulty curve and game state management.
+Our free and open-source Unity LevelUp plugin is here to help you design your game and control its state. Leaderboards and other 3rd party integrations are coming really soon!
+
+<br>
+<br>
+** Thousands of games already use SOOMLA **
+<br>
+<br>
+<a href="http://soom.la">Website</a> | <a href="http://know.soom.la/unity/levelup/">Docs</a> | <a href="http://know.soom.la/docs/university/videos/">Videos</a> | <a href="http://answers.soom.la">Forum</a>
+<br>
+<br>
+LevelUp encourages better game design with a rich object domain of:<br>
+- Worlds<br>
+- Levels<br>
+- Scores<br>
+- Records<br>
+- Gates<br>
+- Missions<br>
+- Rewards<br>
+<br>
+Use our simple events API to get notified when the player has passed a level, reached a high score, completed a mission, earned a reward, etc.
+Also, an encrypted on-device storage will keep the user's game state even after closing the game. SOOMLA for Unity is available for <strong>iOS and Android</strong>.
+<br>
+<br>
+
+Make sure to go over the <a href="http://github.com/soomla/unity3d-levelup">integration instructions</a> and to check out our <a href="http://know.soom.la/unity/levelup/levelup_gameexample/">example game tutorial</a>
+<br>
+<br>
+
+Open Source project: <a href="http://github.com/soomla/unity3d-levelup">http://github.com/soomla/unity3d-levelup</a><br>
+More docs and articles at: <a href="http://know.soom.la">http://know.soom.la</a><br>
+Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
+
+
+
+The following HTML tags are allowed in your description text: <em> <strong> <a> and <br>. Styles, class and id attributes are not allowed. Use of <br> (not </br>) to insert line breaks.
+
+
+
+
+CATEGORY
+==============================
+Scripting > Integration
+
+PRICES
+==============================
+Free
+
+
+PROCESS
+==============================
+- Pull and clean the repo + submodules
+- Switch to latest tag
+- Open project in Unity
+- Run mass labeller script
+- Switch back to the Unity Editor and let it re-import
+- Delete /Assets/Facebook and /Assets/Plugins/Facebook
+- Upload with Asset Store Tools (select root /Assets folder)
