@@ -1,3 +1,9 @@
+**************************************************************************************
+**********************************      ENGLISH     **********************************
+**************************************************************************************
+
+
+
 PACKAGE TITLE
 ==============================
 Profile - Facebook, Twitter, Google+ Social SDK
@@ -67,3 +73,57 @@ PROCESS
 - Switch back to the Unity Editor and let it re-import
 - Delete /Assets/Facebook and /Assets/Plugins/Facebook
 - Upload with Asset Store Tools (select root /Assets folder)
+
+
+
+
+**************************************************************************************
+**********************************      KOREAN      **********************************
+**************************************************************************************
+
+
+
+
+PACKAGE TITLE
+==============================
+프로필 – Facebook, Twitter, Google+ Social SDK
+
+
+PACKAGE DESCRIPTION
+==============================
+소셜 미디어를 이용하여 당신의 게임을 알리세요! 저희의 <strong>Unity Profile</strong> 플러그인은 당신의 게임을 소셜 네트워크로 연결할 수 있게 해주는 최고의 도구입니다.
+<strong>Facebook, Twitter</strong> 그리고 <strong>Google+</strong> 모두 가능합니다! 한 플러그인으로 모든 주요 소셜 네트워크를 같은 API에 쓰실 수가 있습니다.
+
+<br>
+<br>
+**이미 수천개의 게임들이 SOOMLA를 사용하고 있습니다**
+<br>
+<br>
+<a href="http://soom.la">웹 사이트</a> | <a href="http://know.soom.la/unity/profile/">문서</a> | <a href="http://know.soom.la/docs/university/videos/">동영상</a> | <a href="http://answers.soom.la">게시판</a><br>
+<br>
+<br>
+본 플러그인으로 아래에 지시된 바와 같이:<br>
+- 소셜 로그인하기<br>
+- 좋아요<br>
+- 앱 평가하기<br>
+- 친구 초대하기<br>
+- 상태 공유하기<br>
+- 사진 업로드하기<br>
+- 연락처 받기<br>
+- 피드 받기<br>
+<br>
+<strong>이 모든 것들을 하나로 통합된 API로 소셜 네트워크에 쓰실 수가 있습니다.</strong>
+<br>
+<br>
+
+
+여러 소셜 미디어 업체를 손쉽게 통합시킬 수 있는 것 외에, 게임 종류 후에도 암호화된 장치 내 저장 공간으로 사용자의 데이터를 저장할 수 있도록 문고를 제공해 드립니다. Unity용 SOOMLA는 <strong>iOS</strong>와 <strong>Android</strong>에서 사용 가능합니다.
+<br>
+<br>
+통합 설명서 및 소셜 미디어 업체와 통합하는 방법을 꼭 참조하시기 바랍니다.
+<br>
+<br>
+
+오픈 소스 프로젝트: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
+추가 문서 및 기사: <a href="http://know.soom.la">http://know.soom.la</a><br>
+게시판: <a href="http://answers.soom.la">http://answers.soom.la</a>

@@ -1,3 +1,9 @@
+**************************************************************************************
+**********************************      ENGLISH     **********************************
+**************************************************************************************
+
+
+
 PACKAGE TITLE
 ==============================
 SOOMLA Unity Store - In App Purchase
@@ -11,6 +17,7 @@ Easily add in app purchase to your game.  SOOMLA Store lets you build anything f
 - Encrypted on-device storage<br>
 - One API for all platforms<br>
 - Supported billing: Apple App Store, Google Play & Amazon<br>
+- Supported by the excellent <a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP plugin</a><br>
 <br>
 <a href="http://soom.la">Website</a> | <a href="http://know.soom.la/unity/store/">Docs</a> | <a href="http://know.soom.la/docs/university/videos/">Videos</a> | <a href="http://answers.soom.la">Forum</a><br>
 <br>
@@ -21,7 +28,7 @@ Easily add in app purchase to your game.  SOOMLA Store lets you build anything f
 <strong>Instructional Videos</strong><br>
 ------------------<br>
 * <a href="http://youtu.be/59aTzSNoJbQ">Getting Started - Android</a><br>
-* <a href="http://youtu.be/OjCqvWogLtg">Getting Stareted - iOS</a><br>
+* <a href="http://youtu.be/OjCqvWogLtg">Getting Started - iOS</a><br>
 * <a href="http://youtu.be/geQ1Cx1B-ao">Remove Ads Example - Android</a><br>
 * <a href="http://youtu.be/ZQN-com1Pyg">Remove Ads Example- iOS</a><br>
 * <a href="http://youtu.be/8FMtxt4AY_8">60 Second Checklist</a><br>
@@ -32,6 +39,7 @@ Easily add in app purchase to your game.  SOOMLA Store lets you build anything f
 Not sure which IAP plugin to use? We've compared SOOMLA, Unibill, Prime31 & Codiwans in <a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">this blog post</a>.
 <br><br>
 
+Open Source Project: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
 More docs and articles at: <a href="http://know.soom.la">http://know.soom.la</a><br>
 Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
 
@@ -58,3 +66,59 @@ PROCESS
 - Run mass labeller script
 - Switch back to the Unity Editor and let it re-import
 - Upload with Asset Store Tools (select root /Assets folder)
+
+
+
+
+
+
+**************************************************************************************
+**********************************      KOREAN      **********************************
+**************************************************************************************
+
+
+
+
+PACKAGE TITLE
+==============================
+스토어 – 인앱 구매
+
+
+PACKAGE DESCRIPTION
+==============================
+
+
+인앱 구매 품목을 게임으로 손쇱게 추가하세요. SOOMLA 스토어는 간단한 “광고 제거” 버튼에서 시작하여, 게임 내 가상 아이템, 상품, 업그레이드 및 코인 팩과 같은 다양한 컨텐츠 생성을 가능하게 해 드립니다. 해당 플러그인으로: <br>
+
+
+- 깊이 있는 경제 모델
+- 간편한 사용자의 잔액 관리
+- 암호화된 장치 내의 저장 공간
+- 모든 플랫폼을 위한 하나의 API
+- 지원 가능한 청구서: Apple App Store, Google Play & Amazon
+- 훌륭한 <a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP</a> 플러그인으로부터 지원을 받고 있습니다<br>
+
+<br>
+<a href="http://soom.la">웹 사이트</a> | <a href="http://know.soom.la/unity/store/">문서</a> | <a href="http://know.soom.la/docs/university/videos/">동영상</a> | <a href="http://answers.soom.la">게시판</a><br>
+<br>
+** 이미 수천개의 게임들이 SOOMLA를 사용하고 있습니다 **<br>
+<br>
+
+<strong>동영상 설명서</strong><br>
+------------------<br>
+
+* <a href="http://youtu.be/59aTzSNoJbQ">시작하기 – Android</a><br>
+* <a href="http://youtu.be/OjCqvWogLtg">시작하기 - iOS</a><br>
+* <a href="http://youtu.be/geQ1Cx1B-ao">광고 제거 보기 – Android</a><br>
+* <a href="http://youtu.be/ZQN-com1Pyg">광고 제거 보기 - iOS</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">60초 검사 목록</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">마켓 아이템 101</a><br>
+
+<br><br>
+
+어떤 IAP 플러그인을 사용할지 고민되시나요? 저희가 직접 SOOMLA, Unibill, Prime31 & Codiwans를 블로그 게시물에 비교해 보았습니다. <a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">link</a>.
+<br><br>
+
+오픈 소스 프로젝트: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
+추가 문서 및 기사: <a href="http://know.soom.la">http://know.soom.la</a><br>
+게시판: <a href="http://answers.soom.la">http://answers.soom.la</a>

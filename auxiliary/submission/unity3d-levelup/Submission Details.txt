@@ -1,3 +1,9 @@
+**************************************************************************************
+**********************************      ENGLISH     **********************************
+**************************************************************************************
+
+
+
 PACKAGE TITLE
 ==============================
 LevelUp - Design Levels
@@ -64,3 +70,55 @@ PROCESS
 - Switch back to the Unity Editor and let it re-import
 - Delete /Assets/Facebook and /Assets/Plugins/Facebook
 - Upload with Asset Store Tools (select root /Assets folder)
+
+
+
+
+**************************************************************************************
+**********************************      KOREAN      **********************************
+**************************************************************************************
+
+
+
+
+PACKAGE TITLE
+==============================
+LevelUp - Design Levels
+
+
+PACKAGE DESCRIPTION
+==============================
+
+당신의 게임을 더욱 더 자유롭게 디자인하고 조절하세요! <strong>SOOMLA LevelUp</strong>은 게임의 월드 및 레벨 디자인을 강화시켜주는 무료 오픈 소스 플러그인이며, 진행률, 난이도 조정 및 게임 상태 관리 기능들을 함께 사용하실 수가 있습니다.
+저희의 무료 오픈 소스 Unity LevelUp 플러그인은 당신의 게임을 디자인하고 상태를 관리해 드립니다. 순위표와 함께 제3자 통합도 곧 추가될 예정입니다.
+
+<br>
+<br>
+**이미 수천개의 게임들이 SOOMLA를 사용하고 있습니다**
+<br>
+<br>
+<a href="http://soom.la">웹 사이트</a> | <a href="http://know.soom.la/unity/levelup/">문서</a> | <a href="http://know.soom.la/docs/university/videos/">동영상</a> | <a href="http://answers.soom.la">게시판</a><br>
+<br>
+<br>
+
+LevelUp은 아래의 컨텐츠를 추가함으로써, 보다 훌륭한 게임 디자인을 가능하게 해드립니다:<br>
+- 월드<br>
+- 레벨<br>
+- 점수<br>
+- 기록<br>
+- 게이트<br>
+- 미션<br>
+- 보상<br>
+<br>
+플레이어가 레벨 통과, 높은 점수 기록, 미션 완료, 보상 획득, 등등 했을 때 이벤트 API를 이용하여 간편하게 알림을 받으실 수가 있습니다.
+또한, 암호화된 장치 내의 저장 공간만 있다면 사용자의 게임 상태를 게임 종료 후에도 저장할 수가 있습니다. Unity용 SOOMLA 는 <strong>iOS</strong> 와 <strong>Android</strong>에서 사용 가능합니다.
+<br>
+<br>
+
+Make sure to go over the <a href="http://github.com/soomla/unity3d-levelup">integration instructions</a> and to check out our <a href="http://know.soom.la/unity/levelup/levelup_gameexample/">example game tutorial</a>
+<br>
+<br>
+
+Open Source project: <a href="http://github.com/soomla/unity3d-levelup">http://github.com/soomla/unity3d-levelup</a><br>
+More docs and articles at: <a href="http://know.soom.la">http://know.soom.la</a><br>
+Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
