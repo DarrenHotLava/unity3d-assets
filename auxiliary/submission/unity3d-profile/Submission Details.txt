@@ -86,7 +86,7 @@ PROCESS
 
 PACKAGE TITLE
 ==============================
-프로필 – Facebook, Twitter, Google+ Social SDK
+Profile – Facebook, Twitter, Google+ Social SDK
 
 
 PACKAGE DESCRIPTION
@@ -171,7 +171,7 @@ PACKAGE DESCRIPTION
 除了能够轻松整合多个社交媒体之外，这个库还能为您加密设备存储内容，并在游戏结束之后保存用户数据。Unity的SOOMLA适用于<strong>iOS和Android</strong>。
 <br>
 <br>
-Make sure to go over the <a href="http://github.com/soomla/unity3d-profile">integration instructions</a> and <a href="https://github.com/soomla/unity3d-profile#whats-next-selecting-social-providers">how to integrate social providers</a>
+确保查看一下<a href="http://github.com/soomla/unity3d-profile">整合说明</a>以及<a href="https://github.com/soomla/unity3d-profile#whats-next-selecting-social-providers">如何整合社交媒体供应商</a>
 <br>
 <br>
 

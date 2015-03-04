@@ -83,7 +83,7 @@ PROCESS
 
 PACKAGE TITLE
 ==============================
-LevelUp - Design Levels
+LevelUp - 레벨 디자인
 
 
 PACKAGE DESCRIPTION
@@ -165,7 +165,7 @@ LevelUp可以产生更好的游戏设计和丰富的对象领域:
 <br>
 <br>
 
-Make sure to go over the <a href="http://github.com/soomla/unity3d-levelup">integration instructions</a> and to check out our <a href="http://know.soom.la/unity/levelup/levelup_gameexample/">example game tutorial</a>
+确保查看<a href="http://github.com/soomla/unity3d-levelup">整合说明</a>和<a href="http://know.soom.la/unity/levelup/levelup_gameexample/">示例游戏教程</a>
 <br>
 <br>
 
