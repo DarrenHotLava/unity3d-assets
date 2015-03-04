@@ -6,7 +6,7 @@
 
 PACKAGE TITLE
 ==============================
-SOOMLA Unity Store - In App Purchase
+Store - In App Purchase
 
 
 PACKAGE DESCRIPTION
@@ -30,7 +30,7 @@ Easily add in app purchase to your game.  SOOMLA Store lets you build anything f
 * <a href="http://youtu.be/59aTzSNoJbQ">Getting Started - Android</a><br>
 * <a href="http://youtu.be/OjCqvWogLtg">Getting Started - iOS</a><br>
 * <a href="http://youtu.be/geQ1Cx1B-ao">Remove Ads Example - Android</a><br>
-* <a href="http://youtu.be/ZQN-com1Pyg">Remove Ads Example- iOS</a><br>
+* <a href="http://youtu.be/ZQN-com1Pyg">Remove Ads Example - iOS</a><br>
 * <a href="http://youtu.be/8FMtxt4AY_8">60 Second Checklist</a><br>
 * <a href="http://youtu.be/8FMtxt4AY_8">Market Items 101</a><br>
 
@@ -116,9 +116,60 @@ PACKAGE DESCRIPTION
 
 <br><br>
 
-어떤 IAP 플러그인을 사용할지 고민되시나요? 저희가 직접 SOOMLA, Unibill, Prime31 & Codiwans를 블로그 게시물에 비교해 보았습니다. <a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">link</a>.
+어떤 IAP 플러그인을 사용할지 고민되시나요? 저희가 직접 SOOMLA, Unibill, Prime31 & Codiwans를 <a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">블로그 게시물</a>에 비교해 보았습니다.
 <br><br>
 
 오픈 소스 프로젝트: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
 추가 문서 및 기사: <a href="http://know.soom.la">http://know.soom.la</a><br>
 게시판: <a href="http://answers.soom.la">http://answers.soom.la</a>
+
+
+
+**************************************************************************************
+**********************************      CHINESE     **********************************
+**************************************************************************************
+
+
+
+PACKAGE TITLE
+==============================
+Store - 应用程序内购买
+
+
+PACKAGE DESCRIPTION
+==============================
+轻松添加应用程序内购买功能到你的游戏中. SOOMLA商店可以让你删除广告并轻松地在应用程序中制作出虚拟硬币, 商品, 升级和硬币包. 有了这个插件, 您就可以: <br>
+-	获得丰富的理财模式<br>
+-	轻松管理用户余额<br>
+-	加密设备存储<br>
+-	获得一种适合所有平台的API<br>
+-	支持的计费方式: 苹果应用商店, 谷歌应用商店与亚马逊<br>
+
+
+- Supported by the excellent <a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP plugin</a><br>
+
+
+<br>
+<a href="http://soom.la">网站</a> | <a href="http://know.soom.la/unity/store/">文档</a> | <a href="http://know.soom.la/docs/university/videos/">视频</a> | <a href="http://answers.soom.la">论坛</a><br>
+<br>
+**成千上万的游戏已经使用SOOMLA **
+<br>
+<br>
+
+<strong>教学视频</strong><br>
+------------------<br>
+* <a href="http://youtu.be/59aTzSNoJbQ">入门 - Android</a><br>
+* <a href="http://youtu.be/OjCqvWogLtg">入门 - iOS</a><br>
+* <a href="http://youtu.be/geQ1Cx1B-ao">删除广告示例 - Android</a><br>
+* <a href="http://youtu.be/ZQN-com1Pyg">删除广告示例 - iOS</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">60秒清单</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">市场项目101</a><br>
+
+<br><br>
+Not sure which IAP plugin to use? We've compared SOOMLA, Unibill, Prime31 & Codiwans in <a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">this blog post</a>.
+不知道使用哪种IAP插件？我们在这个博客帖子中比较了SOOMLA, Unibill, Prime31和Codiwans
+<br><br>
+
+开源项目: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
+更多的文档和文章: <a href="http://know.soom.la">http://know.soom.la</a><br>
+论坛: <a href="http://answers.soom.la">http://answers.soom.la</a>
