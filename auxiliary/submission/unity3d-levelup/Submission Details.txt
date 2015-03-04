@@ -172,3 +172,54 @@ Make sure to go over the <a href="http://github.com/soomla/unity3d-levelup">inte
 开源项目: <a href="http://github.com/soomla/unity3d-levelup">http://github.com/soomla/unity3d-levelup</a><br>
 更多的文档和文章: <a href="http://know.soom.la">http://know.soom.la</a><br>
 论坛: <a href="http://answers.soom.la">http://answers.soom.la</a>
+
+
+
+**************************************************************************************
+**********************************      ENGLISH     **********************************
+**************************************************************************************
+
+
+
+PACKAGE TITLE
+==============================
+LevelUp - レベルをデザイン
+
+
+PACKAGE DESCRIPTION
+==============================
+
+あなたのゲームをより高いレベルでデザイン、コントロールしましょう！<strong>SOOMLA LevelUp</strong>は、進行具合、難易度、その他ゲーム状況を加味しながらゲームの世界観、レベルの構成をつくりあげるためのオープンソースプラグインです。
+無料かつオープンソースである私たちのUnity LevelUpであなたのゲームをデザイン、コントロールしましょう。Leaderboardsをはじめとした、その他第三者機関との統合も近日公開予定です。
+
+<br>
+<br>
+** 何千というゲームが既にSOOMLAを使用しています **
+<br>
+<br>
+<a href="http://soom.la">ウェブサイト</a> | <a href="http://know.soom.la/unity/levelup/">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/">ビデオ</a> | <a href="http://answers.soom.la">フォーラム</a><br>
+<br>
+<br>
+
+LevelUpで以下の対象領域をデザインすることが可能です:<br>
+- 文字<br>
+- レベル<br>
+- スコア<br>
+- 記録<br>
+- ゲート<br>
+- ミッション<br>
+- 報酬<br>
+<br>
+
+私たちのAPIを使用し、ユーザーがあるレベルを越えた時やハイスコアを獲得した時、ミッションをクリアした時、報酬を獲得した時などには、その情報を把握できるようになりましょう。
+暗号化された端末内ストレージには、ゲーム終了後にもユーザーの情報が保管されます。Unity用SOOMLAは<strong>iOSとAndroid</strong>に対応しています。
+<br>
+<br>
+
+必ずこちらもお読み下さい： <a href="http://github.com/soomla/unity3d-levelup">統合説明書</a>、 <a href="http://know.soom.la/unity/levelup/levelup_gameexample/">例を使ったチュートリアル</a>
+<br>
+<br>
+
+オープンソースプロジェクト: <a href="http://github.com/soomla/unity3d-levelup">http://github.com/soomla/unity3d-levelup</a><br>
+さらに多くのドキュメントや記事: <a href="http://know.soom.la">http://know.soom.la</a><br>
+フォーラム: <a href="http://answers.soom.la">http://answers.soom.la</a>

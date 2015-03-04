@@ -178,3 +178,55 @@ Make sure to go over the <a href="http://github.com/soomla/unity3d-profile">inte
 开源项目: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
 更多的文档和文章: <a href="http://know.soom.la">http://know.soom.la</a><br>
 论坛: <a href="http://answers.soom.la">http://answers.soom.la</a>
+
+
+
+
+**************************************************************************************
+**********************************     JAPANESE     **********************************
+**************************************************************************************
+
+
+
+PACKAGE TITLE
+==============================
+Profile - Facebook, Twitter, Google+ ソーシャルSDK
+
+
+PACKAGE DESCRIPTION
+==============================
+あなたのゲームを「ソーシャル化」しましょう！ソーシャルメディアをゲームに統合するにはUnity <strong>Profile</strong>が最高の選択肢です。
+対応しているソーシャルメディアは<strong>Facebook</strong>、<strong>Twitter</strong> 、<strong>Google+</strong> です！全てのメジャーなソーシャルメディアを同じAPIを使いひとつのプラグインで管理しましょう！
+
+<br>
+<br>
+** 何千というゲームが既にSOOMLAを使用しています **
+<br>
+<br>
+<a href="http://soom.la">ウェブサイト</a> | <a href="http://know.soom.la/unity/profile/">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/">ビデオ</a> | <a href="http://answers.soom.la">フォーラム</a><br>
+<br>
+<br>
+このプラグインで以下の機能が使用できます：<br>
+- ソーシャルメディアへのログイン<br>
+- 「いいね」ボタン<br>
+- アプリの評価<br>
+- 友達を招待<br>
+- ステータスの共有<br>
+- 画像アップロード<br>
+- コンタクトの獲得<br>
+- フィードの獲得<br>
+<br>
+<strong>全てのソーシャルメディアをひとつのAPIで</strong>
+<br>
+<br>
+
+複数のソーシャルメディアの簡単統合に加えて、ユーザーがゲームを終了した後にも暗号化したデータを保存することのできるストレージもついてきます。Unity用SOOMLAは<strong>iOSとAndroid</strong>に対応しています。
+<br>
+<br>
+必ずこちらもお読み下さい：<a href="http://github.com/soomla/unity3d-profile">統合説明書</a>、<a href="https://github.com/soomla/unity3d-profile#whats-next-selecting-social-providers">ソーシャルプロバイダーの統合方法</a>
+<br>
+<br>
+
+オープンソースプロジェクト: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
+さらに多くのドキュメントや記事: <a href="http://know.soom.la">http://know.soom.la</a><br>
+フォーラム: <a href="http://answers.soom.la">http://answers.soom.la</a>

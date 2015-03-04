@@ -173,3 +173,60 @@ Not sure which IAP plugin to use? We've compared SOOMLA, Unibill, Prime31 & Codi
 开源项目: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
 更多的文档和文章: <a href="http://know.soom.la">http://know.soom.la</a><br>
 论坛: <a href="http://answers.soom.la">http://answers.soom.la</a>
+
+
+
+
+**************************************************************************************
+**********************************     JAPANESE     **********************************
+**************************************************************************************
+
+
+
+PACKAGE TITLE
+==============================
+Store - アプリ内購入
+
+
+PACKAGE DESCRIPTION
+==============================
+簡単にあなたのゲームにアプリ内購入が実装できます。SOOMLA Storeを活用して、“広告を取り除く”ボタンや、コイン、商品、アップグレード、コインパッケージと言った精巧なバーチャルエコノミーをつくりあげましょう。このプラグインで以下のことができるようになります：<br>
+- 高機能エコノミーモデル<br>
+- ユーザーの支払い情報をシンプルに管理<br>
+- 暗号化された端末内ストレージ<br>
+- 全てのプラットフォームに共通なAPI<br>
+- 支払い対応サービス：App Store、Google Play、Amazon<br>
+
+- Supported by the excellent <a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP plugin</a><br>
+<br>
+<a href="http://soom.la">ウェブサイト</a> | <a href="http://know.soom.la/unity/store/">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/">ビデオ</a> | <a href="http://answers.soom.la">フォーラム</a><br>
+<br>
+** 何千というゲームが既にSOOMLAを使用しています **
+<br>
+<br>
+
+<strong>解説ビデオ</strong><br>
+------------------<br>
+始め方 - Android
+始め方 - iOS
+広告を取り除く例 - Android
+広告を取り除く例 - iOS
+６０秒チェックリスト
+マーケットアイテム１０１
+
+* <a href="http://youtu.be/59aTzSNoJbQ">始め方 - Android</a><br>
+* <a href="http://youtu.be/OjCqvWogLtg">始め方 - iOS</a><br>
+* <a href="http://youtu.be/geQ1Cx1B-ao">広告を取り除く例 - Android</a><br>
+* <a href="http://youtu.be/ZQN-com1Pyg">広告を取り除く例 - iOS</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">６０秒チェックリスト</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">マーケットアイテム１０１</a><br>
+
+<br><br>
+
+Not sure which IAP plugin to use? We've compared SOOMLA, Unibill, Prime31 & Codiwans in <a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">this blog post</a>.
+どのIAPプラグインを使えばいいのか迷っていますか？私たちがSOOMLA、Unibill、Prime31、Codiwansをこの記事の中で比較してみました。
+<br><br>
+
+オープンソースプロジェクト: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
+さらに多くのドキュメントや記事: <a href="http://know.soom.la">http://know.soom.la</a><br>
+フォーラム: <a href="http://answers.soom.la">http://answers.soom.la</a>
