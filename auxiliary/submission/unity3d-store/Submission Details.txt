@@ -137,14 +137,15 @@ Store - 应用程序内购买
 
 PACKAGE DESCRIPTION
 ==============================
-轻松添加应用程序内购买功能到你的游戏中。SOOMLA商店可以让你删除广告并轻松地在应用程序中制作出虚拟硬币，商品，升级和硬币包。有了这个插件，您就可以: <br>
+在应用程序中轻松的添加购买功能到你的游戏中。SOOMLA商店可以让你随意删除广告并轻松地在应用程序中制作出虚拟硬币，商品，升级和硬币包。有了这个插件，您就可以：<br>
 
--	获得丰富的理财模式<br>
--	轻松管理用户余额<br>
--	加密设备存储<br>
--	获得一种适合所有平台的API<br>
--	支持的计费方式: 苹果应用商店，谷歌应用商店与亚马逊<br>
-- 获得优异的<a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP插件</a>支持<br>
+- 获得丰富的理财模式<br>
+- 轻松管理用户余额<br>
+- 存储设备加密<br>
+- 获得适合所有平台的API<br>
+- 计费方式支持：苹果应用商店，谷歌应用商店与亚马逊<br>
+- 获得优异的<a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP</a>插件支持<br>
+
 <br>
 <a href="http://soom.la">网站</a> | <a href="http://know.soom.la/unity/store/">文档</a> | <a href="http://know.soom.la/docs/university/videos/">视频</a> | <a href="http://answers.soom.la">论坛</a><br>
 <br>
@@ -159,10 +160,9 @@ PACKAGE DESCRIPTION
 * <a href="http://youtu.be/geQ1Cx1B-ao">删除广告示例 - Android</a><br>
 * <a href="http://youtu.be/ZQN-com1Pyg">删除广告示例 - iOS</a><br>
 * <a href="http://youtu.be/8FMtxt4AY_8">60秒清单</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">市场项目101</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">101市场项目</a><br>
 
 <br><br>
-Not sure which IAP plugin to use? We've compared SOOMLA, Unibill, Prime31 & Codiwans in <a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">this blog post</a>.
 不知道使用哪种IAP插件？我们在这个<a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">博客帖子</a>中比较了SOOMLA，Unibill，Prime31和Codiwans
 <br><br>
 
