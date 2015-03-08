@@ -115,6 +115,8 @@ LevelUp은 아래의 컨텐츠를 추가함으로써, 보다 훌륭한 게임 �
 <br>
 <br>
 
+반드시 <a href="http://github.com/soomla/unity3d-levelup">통합 설명서</a>와 함께 <a href="http://know.soom.la/unity/levelup/levelup_gameexample/">게임 방법</a>을 참조하시기 바랍니다.
+
 Make sure to go over the <a href="http://github.com/soomla/unity3d-levelup">integration instructions</a> and to check out our <a href="http://know.soom.la/unity/levelup/levelup_gameexample/">example game tutorial</a>
 <br>
 <br>
