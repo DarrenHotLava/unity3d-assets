@@ -147,7 +147,7 @@ PACKAGE DESCRIPTION
 - 获得优异的<a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP</a>插件支持<br>
 
 <br>
-<a href="http://soom.la">网站</a> | <a href="http://know.soom.la/unity/store/">文档</a> | <a href="http://know.soom.la/docs/university/videos/">视频</a> | <a href="http://answers.soom.la">论坛</a><br>
+ <a href="http://soom.la">网站</a> | <a href="http://know.soom.la/unity/store/">文档</a> | <a href="http://know.soom.la/docs/university/videos/">视频</a> | <a href="http://answers.soom.la">论坛</a><br>
 <br>
 **成千上万的游戏已经使用SOOMLA **
 <br>
@@ -186,7 +186,7 @@ Store - アプリ内購入
 
 PACKAGE DESCRIPTION
 ==============================
-簡単にあなたのゲームにアプリ内購入が実装できます。SOOMLA Storeを活用して、“広告を取り除く”ボタンや、コイン、商品、アップグレード、コインパッケージと言った精巧なバーチャルエコノミーをつくりあげましょう。このプラグインで以下のことができるようになります：<br>
+簡単にあなたのゲームにアプリ内購入が実装できます。SOOMLA Storeを活用して、“広告を取り除く”ボタンや、コイン、商品、アップグレード、コインパッケージと言った精巧なバーチャルエコノミーを作り上げましょう。このプラグインで以下のことができるようになります：<br>
 - 高機能エコノミーモデル<br>
 - ユーザーの支払い情報をシンプルに管理<br>
 - 暗号化された端末内ストレージ<br>
@@ -196,19 +196,12 @@ PACKAGE DESCRIPTION
 <br>
 <a href="http://soom.la">ウェブサイト</a> | <a href="http://know.soom.la/unity/store/">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/">ビデオ</a> | <a href="http://answers.soom.la">フォーラム</a><br>
 <br>
-** 何千というゲームが既にSOOMLAを使用しています **
+** SOOMLAは既に何千というゲームで使用されています **
 <br>
 <br>
 
 <strong>解説ビデオ</strong><br>
 ------------------<br>
-始め方 - Android
-始め方 - iOS
-広告を取り除く例 - Android
-広告を取り除く例 - iOS
-６０秒チェックリスト
-マーケットアイテム１０１
-
 * <a href="http://youtu.be/59aTzSNoJbQ">始め方 - Android</a><br>
 * <a href="http://youtu.be/OjCqvWogLtg">始め方 - iOS</a><br>
 * <a href="http://youtu.be/geQ1Cx1B-ao">広告を取り除く例 - Android</a><br>
@@ -218,7 +211,7 @@ PACKAGE DESCRIPTION
 
 <br><br>
 
-どのIAPプラグインを使えばいいのか迷っていますか？私たちがSOOMLA、Unibill、Prime31、Codiwansを<a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">この記事の中で</a>比較してみました。
+どのIAPプラグインを使えば良いのか迷っていますか？私たちがSOOMLA、Unibill、Prime31、Codiwansを<a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">この記事の中で</a>比較してみました。
 
 <br><br>
 

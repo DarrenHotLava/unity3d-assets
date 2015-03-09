@@ -196,7 +196,7 @@ PACKAGE DESCRIPTION
 
 <br>
 <br>
-** 何千というゲームが既にSOOMLAを使用しています **
+** SOOMLAは既に何千というゲームで使用されています **
 <br>
 <br>
 <a href="http://soom.la">ウェブサイト</a> | <a href="http://know.soom.la/unity/levelup/">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/">ビデオ</a> | <a href="http://answers.soom.la">フォーラム</a><br>

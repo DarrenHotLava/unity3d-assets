@@ -200,7 +200,7 @@ PACKAGE DESCRIPTION
 
 <br>
 <br>
-** 何千というゲームが既にSOOMLAを使用しています **
+** SOOMLAは既に何千というゲームで使用されています **
 <br>
 <br>
 <a href="http://soom.la">ウェブサイト</a> | <a href="http://know.soom.la/unity/profile/">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/">ビデオ</a> | <a href="http://answers.soom.la">フォーラム</a><br>
@@ -212,7 +212,7 @@ PACKAGE DESCRIPTION
 - アプリの評価<br>
 - 友達を招待<br>
 - ステータスの共有<br>
-- 画像アップロード<br>
+- 画像のアップロード<br>
 - コンタクトの獲得<br>
 - フィードの獲得<br>
 <br>
