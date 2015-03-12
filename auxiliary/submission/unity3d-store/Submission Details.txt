@@ -17,7 +17,7 @@ Easily add in app purchase to your game.  SOOMLA Store lets you build anything f
 - Encrypted on-device storage<br>
 - One API for all platforms<br>
 - Supported billing: Apple App Store, Google Play & Amazon<br>
-- Supported by the excellent <a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP plugin</a><br>
+- Supported by the excellent <a href="https://www.assetstore.unity3d.com/en/#!/content/22628">Simple IAP plugin</a><br>
 <br>
 <a href="http://soom.la">Website</a> | <a href="http://know.soom.la/unity/store/">Docs</a> | <a href="http://know.soom.la/docs/university/videos/">Videos</a> | <a href="http://answers.soom.la">Forum</a><br>
 <br>
@@ -95,7 +95,7 @@ PACKAGE DESCRIPTION
 - 암호화된 장치 내의 저장 공간<br>
 - 모든 플랫폼을 위한 하나의 API<br>
 - 지원 가능한 청구서: Apple App Store, Google Play & Amazon<br>
-- 훌륭한 <a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP</a> 플러그인으로부터 지원을 받고 있습니다<br>
+- 훌륭한 <a href="https://www.assetstore.unity3d.com/kr/#!/content/22628">Simple IAP</a> 플러그인으로부터 지원을 받고 있습니다<br>
 
 <br>
 <a href="http://soom.la">웹 사이트</a> | <a href="http://know.soom.la/unity/store/">문서</a> | <a href="http://know.soom.la/docs/university/videos/">동영상</a> | <a href="http://answers.soom.la">게시판</a><br>
@@ -144,7 +144,7 @@ PACKAGE DESCRIPTION
 - 存储设备加密<br>
 - 获得适合所有平台的API<br>
 - 计费方式支持：苹果应用商店，谷歌应用商店与亚马逊<br>
-- 获得优异的<a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP</a>插件支持<br>
+- 获得优异的<a href="https://www.assetstore.unity3d.com/cn/#!/content/22628">Simple IAP</a>插件支持<br>
 
 <br>
  <a href="http://soom.la">网站</a> | <a href="http://know.soom.la/unity/store/">文档</a> | <a href="http://know.soom.la/docs/university/videos/">视频</a> | <a href="http://answers.soom.la">论坛</a><br>
@@ -192,7 +192,7 @@ PACKAGE DESCRIPTION
 - 暗号化された端末内ストレージ<br>
 - 全てのプラットフォームに共通なAPI<br>
 - 支払い対応サービス：App Store、Google Play、Amazon<br>
-- <a href="https://www.assetstore.unity3d.com/en/#!/content/12343">Simple IAP plugin</a>との連動<br>
+- <a href="https://www.assetstore.unity3d.com/jp/#!/content/22628">Simple IAP plugin</a>との連動<br>
 <br>
 <a href="http://soom.la">ウェブサイト</a> | <a href="http://know.soom.la/unity/store/">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/">ビデオ</a> | <a href="http://answers.soom.la">フォーラム</a><br>
 <br>
