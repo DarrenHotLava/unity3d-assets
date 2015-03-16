@@ -154,21 +154,21 @@ PACKAGE DESCRIPTION
 <a href="http://soom.la">网站</a> | <a href="http://know.soom.la/unity/profile/">文档</a> | <a href="http://know.soom.la/docs/university/videos/">视频</a> | <a href="http://answers.soom.la">论坛</a><br>
 <br>
 <br>
-有了这个插件，你可以加强游戏以下内容: <br>
+有了这个插件，你可以通过以下功能加强你的游戏：<br>
 - 社交登录<br>
-- 赞<br>
-- 应用程序评估<br>
+- 点赞<br>
+- 评价应用<br>
 - 邀请好友<br>
 - 共享状态<br>
 - 上传图片<br>
-- 获取联系方式<br>
-- 获取供稿<br>
+- 获取通讯录<br>
+- 获取新闻<br>
 <br>
 <strong>使用统一的API即可整合所有的社交网络。</strong>
 <br>
 <br>
 
-除了能够轻松整合多个社交媒体之外，这个库还能为您加密设备存储内容，并在游戏结束之后保存用户数据。Unity的SOOMLA适用于<strong>iOS和Android</strong>。
+除了能够轻松整合多个社交媒体之外，这个库还能为您加密设备存储内容，并在游戏结束之后保存用户数据。Unity的SOOMLA插件适用于<strong>iOS和Android</strong>。
 <br>
 <br>
 确保查看一下<a href="http://github.com/soomla/unity3d-profile">整合说明</a>以及<a href="https://github.com/soomla/unity3d-profile#whats-next-selecting-social-providers">如何整合社交媒体供应商</a>

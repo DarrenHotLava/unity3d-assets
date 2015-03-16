@@ -135,14 +135,13 @@ Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
 
 PACKAGE TITLE
 ==============================
-LevelUp - 设计关卡
-
+LevelUp - 关卡设计
 
 PACKAGE DESCRIPTION
 ==============================
 
-更好地设计和控制您的游戏！ <strong>SOOMLA的LevelUp</strong>是一个自由和开放源码插件，它能让您建立游戏世界和关卡，同时它还融入进程，难度曲线和游戏状态管理功能。
-我们的自由和开放源码的Unity LevelUp插件可以帮助你设计和控制游戏。很快我们将推出排行榜和其他第三方集成功能！
+更好地设计和控制您的游戏！ <strong>SOOMLA的LevelUp</strong>是一个免费和开放源代码的插件，它能让您更方便地建立游戏世界和关卡，同时它还融入游戏进程、难度曲线以及游戏状态管理功能。
+我们的免费和开放源代码的Unity LevelUp插件可以帮助你设计游戏和控制游戏状态。很快我们将推出排行榜和其他第三方集成功能！
 
 <br>
 <br>
@@ -152,7 +151,7 @@ PACKAGE DESCRIPTION
 <a href="http://soom.la">网站</a> | <a href="http://know.soom.la/unity/levelup/">文档</a> | <a href="http://know.soom.la/docs/university/videos/">视频</a> | <a href="http://answers.soom.la">论坛</a><br>
 <br>
 <br>
-LevelUp可以产生更好的游戏设计和丰富的对象领域:
+LevelUp插件会使用以下元素来帮助您设计更好的游戏：<br>
 - 世界<br>
 - 关卡<br>
 - 积分<br>
@@ -162,8 +161,8 @@ LevelUp可以产生更好的游戏设计和丰富的对象领域:
 - 奖励<br>
 <br>
 
-使用我们的简单的事件API，你可以在玩家通过关卡，达到了很高的分数，完成任务和赢得奖励等情况中获得通知。
-此外，加密设备存储内容可以在游戏结束后仍然保存用户游戏状态。Unity的SOOMLA适用于<strong>iOS和Android</strong>。
+使用我们的简单的事件API，你可以在玩家完成关卡、达到最高分、完成任务和赢得奖励等情况时通知玩家。
+此外，我们使用加密的设备存储内容，即使用户退出了游戏，游戏状态仍然能被保存。Unity的SOOMLA插件适用于<strong>iOS和Android</strong>。
 <br>
 <br>
 

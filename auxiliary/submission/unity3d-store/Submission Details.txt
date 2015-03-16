@@ -132,19 +132,19 @@ PACKAGE DESCRIPTION
 
 PACKAGE TITLE
 ==============================
-Store - 应用程序内购买
+Store - 应用程序内购
 
 
 PACKAGE DESCRIPTION
 ==============================
-在应用程序中轻松的添加购买功能到你的游戏中。SOOMLA商店可以让你随意删除广告并轻松地在应用程序中制作出虚拟硬币，商品，升级和硬币包。有了这个插件，您就可以：<br>
+在你的游戏中轻松添加应用内购功能。无论是简单的“移除广告”按钮，还是功能多样的整 合虚拟货币、物品、升级以及货币包的虚拟经济系统，SOOMLA Store插件都能轻松让你制 作这些功能。使用这个插件您能使用以下功能：<br>
 
-- 获得丰富的理财模式<br>
-- 轻松管理用户余额<br>
-- 存储设备加密<br>
-- 获得适合所有平台的API<br>
-- 计费方式支持：苹果应用商店，谷歌应用商店与亚马逊<br>
-- 获得优异的<a href="https://www.assetstore.unity3d.com/cn/#!/content/22628">Simple IAP</a>插件支持<br>
+- 个完整丰富的经济模型<br>
+- 轻松地管理用户的虚拟财产<br>
+- 加密的设备存储内容<br>
+- 所有平台只需一个API<br>
+- 支持内购付费的应用商店平台：苹果App Store，谷歌Google Play 和亚马逊应用商店<br>
+- 整合了优秀的<a href="https://www.assetstore.unity3d.com/cn/#!/content/22628">“Simple IAP”</a>插件<br>
 
 <br>
  <a href="http://soom.la">网站</a> | <a href="http://know.soom.la/unity/store/">文档</a> | <a href="http://know.soom.la/docs/university/videos/">视频</a> | <a href="http://answers.soom.la">论坛</a><br>
@@ -153,17 +153,17 @@ PACKAGE DESCRIPTION
 <br>
 <br>
 
-<strong>教学视频</strong><br>
-------------------<br>
+<strong>介绍和教学视频（英文版）</strong><br>
+----------------------<br>
 * <a href="http://youtu.be/59aTzSNoJbQ">入门 - Android</a><br>
 * <a href="http://youtu.be/OjCqvWogLtg">入门 - iOS</a><br>
-* <a href="http://youtu.be/geQ1Cx1B-ao">删除广告示例 - Android</a><br>
-* <a href="http://youtu.be/ZQN-com1Pyg">删除广告示例 - iOS</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">60秒清单</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">101市场项目</a><br>
+* <a href="http://youtu.be/geQ1Cx1B-ao">移除广告 功能示例 - Android</a><br>
+* <a href="http://youtu.be/ZQN-com1Pyg">移除广告 功能示例 - iOS</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">60秒快速教学</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8">应用市场内购项目101</a><br>
 
 <br><br>
-不知道使用哪种IAP插件？我们在这个<a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">博客帖子</a>中比较了SOOMLA，Unibill，Prime31和Codiwans
+不确定该使用哪个内购插件？在<a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">这个博客</a>中我们比较了SOOMLA，Unibill，Prime31以及Codiwans这些插件。
 <br><br>
 
 开源项目: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
