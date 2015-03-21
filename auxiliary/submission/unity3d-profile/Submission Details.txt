@@ -220,7 +220,7 @@ PACKAGE DESCRIPTION
 <br>
 <br>
 
-複数のソーシャルメディアの簡単統合に加えて、ユーザーがゲームを終了した後にも暗号化したデータを保存することのできるストレージもついてきます。Unity用SOOMLAは<strong>iOSとAndroid</strong>に対応しています。
+複数のソーシャルメディアの簡単な統合に加えて、ユーザーがゲームを終了した後にも暗号化したデータを保存することのできるストレージがついてきます。Unity用SOOMLAは<strong>iOSとAndroid</strong>に対応しています。
 <br>
 <br>
 必ずこちらもお読み下さい：<a href="http://github.com/soomla/unity3d-profile">統合説明書</a>、<a href="https://github.com/soomla/unity3d-profile#whats-next-selecting-social-providers">ソーシャルプロバイダーの統合方法</a>
