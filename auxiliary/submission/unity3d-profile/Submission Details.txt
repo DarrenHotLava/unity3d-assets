@@ -19,7 +19,7 @@ We support <strong>Facebook</strong>,  <strong>Twitter</strong> and <strong>Goog
 ** Thousands of games already use SOOMLA **
 <br>
 <br>
-<a href="http://soom.la">Website</a> | <a href="http://know.soom.la/unity/profile/">Docs</a> | <a href="http://know.soom.la/docs/university/videos/">Videos</a> | <a href="http://answers.soom.la">Forum</a>
+<a href="http://soom.la/?utm_source=unity_asset_store">Website</a> | <a href="http://know.soom.la/unity/profile/?utm_source=unity_asset_store">Docs</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">Videos</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">Forum</a>
 <br>
 <br>
 With this plugin you can boost your game with:<br>
@@ -45,8 +45,8 @@ Make sure to go over the <a href="http://github.com/soomla/unity3d-profile">inte
 <br>
 
 Open Source project: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
-More docs and articles at: <a href="http://know.soom.la">http://know.soom.la</a><br>
-Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
+More docs and articles at: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
+Forums at: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
 
 
 
@@ -92,17 +92,17 @@ Profile – Facebook, Twitter, Google+ Social SDK
 PACKAGE DESCRIPTION
 ==============================
 소셜 미디어를 이용하여 당신의 게임을 알리세요! 저희의 <strong>Unity Profile</strong> 플러그인은 당신의 게임을 소셜 네트워크로 연결할 수 있게 해주는 최고의 도구입니다.
-<strong>Facebook, Twitter</strong> 그리고 <strong>Google+</strong> 모두 가능합니다! 한 플러그인으로 모든 주요 소셜 네트워크를 같은 API에 쓰실 수가 있습니다.
+<strong>Facebook, Twitter,Google+</strong> 모두 가능합니다! 한 플러그인으로 모든 주요 소셜 네트워크를 같은 API에 쓰실 수가 있습니다.
 
 <br>
 <br>
 **이미 수천개의 게임들이 SOOMLA를 사용하고 있습니다**
 <br>
 <br>
-<a href="http://soom.la">웹 사이트</a> | <a href="http://know.soom.la/unity/profile/">문서</a> | <a href="http://know.soom.la/docs/university/videos/">동영상</a> | <a href="http://answers.soom.la">게시판</a><br>
+<a href="http://soom.la/?utm_source=unity_asset_store">웹 사이트</a> | <a href="http://know.soom.la/unity/profile/?utm_source=unity_asset_store">문서</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">동영상</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">게시판</a><br>
 <br>
 <br>
-본 플러그인으로 아래에 지시된 바와 같이:<br>
+이 플러그인으로 다음 기능들을 활용해 게임을 더욱 활성화 해 보세요:<br>
 - 소셜 로그인하기<br>
 - 좋아요<br>
 - 앱 평가하기<br>
@@ -117,16 +117,16 @@ PACKAGE DESCRIPTION
 <br>
 
 
-여러 소셜 미디어 업체를 손쉽게 통합시킬 수 있는 것 외에, 게임 종류 후에도 암호화된 장치 내 저장 공간으로 사용자의 데이터를 저장할 수 있도록 문고를 제공해 드립니다. Unity용 SOOMLA는 <strong>iOS</strong>와 <strong>Android</strong>에서 사용 가능합니다.
+여러 소셜 미디어 업체를 손쉽게 통합시킬 수 있는 것 외에, 게임 종료 후에도 암호화된 장치 내 저장 공간으로 사용자의 데이터를 저장할 수 있도록 문고를 제공해 드립니다. Unity용 SOOMLA는 <strong>iOS</strong>와 <strong>Android</strong>에서 사용 가능합니다.
 <br>
 <br>
-<a href="http://github.com/soomla/unity3d-profile">통합 설명서</a> 및 <a href="https://github.com/soomla/unity3d-profile#whats-next-selecting-social-providers">소셜 미디어 업체와 통합하는 방법</a>을 꼭 참조하시기 바랍니다.
+통합 설명서 및 <a href="http://github.com/soomla/unity3d-profile">소셜 미디어 API</a>와 통합하는 방법을 꼭 참조하시기 바랍니다.
 <br>
 <br>
 
 오픈 소스 프로젝트: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
-추가 문서 및 기사: <a href="http://know.soom.la">http://know.soom.la</a><br>
-게시판: <a href="http://answers.soom.la">http://answers.soom.la</a>
+추가 문서 및 기사: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
+게시판: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
 
 
 
@@ -151,7 +151,7 @@ PACKAGE DESCRIPTION
 **成千上万的游戏已经使用SOOMLA **
 <br>
 <br>
-<a href="http://soom.la">网站</a> | <a href="http://know.soom.la/unity/profile/">文档</a> | <a href="http://know.soom.la/docs/university/videos/">视频</a> | <a href="http://answers.soom.la">论坛</a><br>
+<a href="http://soom.la/?utm_source=unity_asset_store">网站</a> | <a href="http://know.soom.la/unity/profile/?utm_source=unity_asset_store">文档</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">视频</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">论坛</a><br>
 <br>
 <br>
 有了这个插件，你可以通过以下功能加强你的游戏：<br>
@@ -176,8 +176,8 @@ PACKAGE DESCRIPTION
 <br>
 
 开源项目: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
-更多的文档和文章: <a href="http://know.soom.la">http://know.soom.la</a><br>
-论坛: <a href="http://answers.soom.la">http://answers.soom.la</a>
+更多的文档和文章: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
+论坛: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
 
 
 
@@ -203,7 +203,7 @@ PACKAGE DESCRIPTION
 ** SOOMLAは既に何千というゲームで使用されています **
 <br>
 <br>
-<a href="http://soom.la">ウェブサイト</a> | <a href="http://know.soom.la/unity/profile/">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/">ビデオ</a> | <a href="http://answers.soom.la">フォーラム</a><br>
+<a href="http://soom.la/?utm_source=unity_asset_store">ウェブサイト</a> | <a href="http://know.soom.la/unity/profile/?utm_source=unity_asset_store">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">ビデオ</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">フォーラム</a><br>
 <br>
 <br>
 このプラグインで以下の機能が使用できます：<br>
@@ -228,5 +228,5 @@ PACKAGE DESCRIPTION
 <br>
 
 オープンソースプロジェクト: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
-さらに多くのドキュメントや記事: <a href="http://know.soom.la">http://know.soom.la</a><br>
-フォーラム: <a href="http://answers.soom.la">http://answers.soom.la</a>
+さらに多くのドキュメントや記事: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
+フォーラム: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>

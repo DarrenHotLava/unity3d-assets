@@ -19,7 +19,7 @@ Easily add in app purchase to your game.  SOOMLA Store lets you build anything f
 - Supported billing: Apple App Store, Google Play & Amazon<br>
 - Supported by the excellent <a href="https://www.assetstore.unity3d.com/en/#!/content/22628">Simple IAP plugin</a><br>
 <br>
-<a href="http://soom.la">Website</a> | <a href="http://know.soom.la/unity/store/">Docs</a> | <a href="http://know.soom.la/docs/university/videos/">Videos</a> | <a href="http://answers.soom.la">Forum</a><br>
+<a href="http://soom.la/?utm_source=unity_asset_store">Website</a> | <a href="http://know.soom.la/unity/store/?utm_source=unity_asset_store">Docs</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">Videos</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">Forum</a><br>
 <br>
 ** Thousands of games already use SOOMLA **
 <br>
@@ -27,12 +27,12 @@ Easily add in app purchase to your game.  SOOMLA Store lets you build anything f
 
 <strong>Instructional Videos</strong><br>
 ------------------<br>
-* <a href="http://youtu.be/59aTzSNoJbQ">Getting Started - Android</a><br>
-* <a href="http://youtu.be/OjCqvWogLtg">Getting Started - iOS</a><br>
-* <a href="http://youtu.be/geQ1Cx1B-ao">Remove Ads Example - Android</a><br>
-* <a href="http://youtu.be/ZQN-com1Pyg">Remove Ads Example - iOS</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">60 Second Checklist</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">Market Items 101</a><br>
+* <a href="http://youtu.be/59aTzSNoJbQ?utm_source=unity_asset_store">Getting Started - Android</a><br>
+* <a href="http://youtu.be/OjCqvWogLtg?utm_source=unity_asset_store">Getting Started - iOS</a><br>
+* <a href="http://youtu.be/geQ1Cx1B-ao?utm_source=unity_asset_store">Remove Ads Example - Android</a><br>
+* <a href="http://youtu.be/ZQN-com1Pyg?utm_source=unity_asset_store">Remove Ads Example - iOS</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8?utm_source=unity_asset_store">60 Second Checklist</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8?utm_source=unity_asset_store">Market Items 101</a><br>
 
 <br><br>
 
@@ -40,8 +40,8 @@ Not sure which IAP plugin to use? We've compared SOOMLA, Unibill, Prime31 & Codi
 <br><br>
 
 Open Source Project: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
-More docs and articles at: <a href="http://know.soom.la">http://know.soom.la</a><br>
-Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
+More docs and articles at: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
+Forums at: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
 
 
 
@@ -96,7 +96,7 @@ PACKAGE DESCRIPTION
 - 지원하는 결제: Apple App Store, Google Play & Amazon<br>
 - 훌륭한 <a href="https://www.assetstore.unity3d.com/kr/#!/content/22628">Simple IAP플러그인</a>도 SOOMLA SDK를 사용합니다<br>
 <br>
-<a href="http://soom.la">웹 사이트</a> | <a href="http://know.soom.la/unity/store/">문서</a> | <a href="http://know.soom.la/docs/university/videos/">동영상</a> | <a href="http://answers.soom.la">게시판</a><br>
+<a href="http://soom.la/?utm_source=unity_asset_store">웹 사이트</a> | <a href="http://know.soom.la/unity/store/?utm_source=unity_asset_store">문서</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">동영상</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">게시판</a><br>
 <br>
 ** 이미 수천개의 게임들이 SOOMLA를 사용하고 있습니다 **<br>
 <br>
@@ -104,12 +104,12 @@ PACKAGE DESCRIPTION
 <strong>동영상 설명서</strong><br>
 ------------------<br>
 
-* <a href="http://youtu.be/59aTzSNoJbQ">시작하기 – Android</a><br>
-* <a href="http://youtu.be/OjCqvWogLtg">시작하기 - iOS</a><br>
-* <a href="http://youtu.be/geQ1Cx1B-ao">광고 제거 보기 – Android</a><br>
-* <a href="http://youtu.be/ZQN-com1Pyg">광고 제거 보기 - iOS</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">60초 검사 목록</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">마켓 아이템 101</a><br>
+* <a href="http://youtu.be/59aTzSNoJbQ?utm_source=unity_asset_store">시작하기 – Android</a><br>
+* <a href="http://youtu.be/OjCqvWogLtg?utm_source=unity_asset_store">시작하기 - iOS</a><br>
+* <a href="http://youtu.be/geQ1Cx1B-ao?utm_source=unity_asset_store">광고 제거 보기 – Android</a><br>
+* <a href="http://youtu.be/ZQN-com1Pyg?utm_source=unity_asset_store">광고 제거 보기 - iOS</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8?utm_source=unity_asset_store">60초 검사 목록</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8?utm_source=unity_asset_store">마켓 아이템 101</a><br>
 
 <br><br>
 어떤 In-App-Purchase 플러그인을 사용할지 고민되시나요? 저희가 직접 SOOMLA, Unbill, Prome31, Codiwans를 비교한 <a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">블로그 포스팅을 확인하세요</a>.
@@ -117,8 +117,8 @@ PACKAGE DESCRIPTION
 <br><br>
 
 오픈 소스 프로젝트: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
-추가 문서 및 기사: <a href="http://know.soom.la">http://know.soom.la</a><br>
-게시판: <a href="http://answers.soom.la">http://answers.soom.la</a>
+추가 문서 및 기사: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
+게시판: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
 
 
 
@@ -145,7 +145,7 @@ PACKAGE DESCRIPTION
 - 整合了优秀的<a href="https://www.assetstore.unity3d.com/cn/#!/content/22628">“Simple IAP”</a>插件<br>
 
 <br>
- <a href="http://soom.la">网站</a> | <a href="http://know.soom.la/unity/store/">文档</a> | <a href="http://know.soom.la/docs/university/videos/">视频</a> | <a href="http://answers.soom.la">论坛</a><br>
+ <a href="http://soom.la/?utm_source=unity_asset_store">网站</a> | <a href="http://know.soom.la/unity/store/?utm_source=unity_asset_store">文档</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">视频</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">论坛</a><br>
 <br>
 **成千上万的游戏已经使用SOOMLA **
 <br>
@@ -153,20 +153,20 @@ PACKAGE DESCRIPTION
 
 <strong>介绍和教学视频（英文版）</strong><br>
 ----------------------<br>
-* <a href="http://youtu.be/59aTzSNoJbQ">入门 - Android</a><br>
-* <a href="http://youtu.be/OjCqvWogLtg">入门 - iOS</a><br>
-* <a href="http://youtu.be/geQ1Cx1B-ao">移除广告 功能示例 - Android</a><br>
-* <a href="http://youtu.be/ZQN-com1Pyg">移除广告 功能示例 - iOS</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">60秒快速教学</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">应用市场内购项目101</a><br>
+* <a href="http://youtu.be/59aTzSNoJbQ?utm_source=unity_asset_store">入门 - Android</a><br>
+* <a href="http://youtu.be/OjCqvWogLtg?utm_source=unity_asset_store">入门 - iOS</a><br>
+* <a href="http://youtu.be/geQ1Cx1B-ao?utm_source=unity_asset_store">移除广告 功能示例 - Android</a><br>
+* <a href="http://youtu.be/ZQN-com1Pyg?utm_source=unity_asset_store">移除广告 功能示例 - iOS</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8?utm_source=unity_asset_store">60秒快速教学</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8?utm_source=unity_asset_store">应用市场内购项目101</a><br>
 
 <br><br>
 不确定该使用哪个内购插件？在<a href="http://blog.soom.la/2014/05/unity-monetization-plugins-2014-update.html?utm_source=unity_asset_store">这个博客</a>中我们比较了SOOMLA，Unibill，Prime31以及Codiwans这些插件。
 <br><br>
 
 开源项目: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
-更多的文档和文章: <a href="http://know.soom.la">http://know.soom.la</a><br>
-论坛: <a href="http://answers.soom.la">http://answers.soom.la</a>
+更多的文档和文章: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
+论坛: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
 
 
 
@@ -192,7 +192,7 @@ PACKAGE DESCRIPTION
 - 支払い対応サービス：App Store、Google Play、Amazon<br>
 - <a href="https://www.assetstore.unity3d.com/jp/#!/content/22628">Simple IAP plugin</a>との連動<br>
 <br>
-<a href="http://soom.la">ウェブサイト</a> | <a href="http://know.soom.la/unity/store/">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/">ビデオ</a> | <a href="http://answers.soom.la">フォーラム</a><br>
+<a href="http://soom.la/?utm_source=unity_asset_store">ウェブサイト</a> | <a href="http://know.soom.la/unity/store/?utm_source=unity_asset_store">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">ビデオ</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">フォーラム</a><br>
 <br>
 ** SOOMLAは既に何千というゲームで使用されています **
 <br>
@@ -200,12 +200,12 @@ PACKAGE DESCRIPTION
 
 <strong>解説ビデオ</strong><br>
 ------------------<br>
-* <a href="http://youtu.be/59aTzSNoJbQ">始め方 - Android</a><br>
-* <a href="http://youtu.be/OjCqvWogLtg">始め方 - iOS</a><br>
-* <a href="http://youtu.be/geQ1Cx1B-ao">広告を取り除く例 - Android</a><br>
-* <a href="http://youtu.be/ZQN-com1Pyg">広告を取り除く例 - iOS</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">６０秒チェックリスト</a><br>
-* <a href="http://youtu.be/8FMtxt4AY_8">マーケットアイテム１０１</a><br>
+* <a href="http://youtu.be/59aTzSNoJbQ?utm_source=unity_asset_store">始め方 - Android</a><br>
+* <a href="http://youtu.be/OjCqvWogLtg?utm_source=unity_asset_store">始め方 - iOS</a><br>
+* <a href="http://youtu.be/geQ1Cx1B-ao?utm_source=unity_asset_store">広告を取り除く例 - Android</a><br>
+* <a href="http://youtu.be/ZQN-com1Pyg?utm_source=unity_asset_store">広告を取り除く例 - iOS</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8?utm_source=unity_asset_store">６０秒チェックリスト</a><br>
+* <a href="http://youtu.be/8FMtxt4AY_8?utm_source=unity_asset_store">マーケットアイテム１０１</a><br>
 
 <br><br>
 
@@ -214,5 +214,5 @@ PACKAGE DESCRIPTION
 <br><br>
 
 オープンソースプロジェクト: <a href="https://github.com/soomla/unity3d-store">https://github.com/soomla/unity3d-store</a><br>
-さらに多くのドキュメントや記事: <a href="http://know.soom.la">http://know.soom.la</a><br>
-フォーラム: <a href="http://answers.soom.la">http://answers.soom.la</a>
+さらに多くのドキュメントや記事: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
+フォーラム: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
