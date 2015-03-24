@@ -17,7 +17,8 @@ Easily add in app purchase to your game.  SOOMLA Store lets you build anything f
 - Encrypted on-device storage<br>
 - One API for all platforms<br>
 - Supported billing: Apple App Store, Google Play & Amazon<br>
-- Supported by the excellent <a href="https://www.assetstore.unity3d.com/en/#!/content/22628">Simple IAP plugin</a><br>
+- Supported plugins:<br>
+<a href="https://www.assetstore.unity3d.com/en/#!/content/22628">Simple IAP</a>  |  <a href="https://www.assetstore.unity3d.com/en/#!/content/31343">SOOMLA Template</a><br>
 <br>
 <a href="http://soom.la/?utm_source=unity_asset_store">Website</a> | <a href="http://know.soom.la/unity/store/?utm_source=unity_asset_store">Docs</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">Videos</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">Forum</a><br>
 <br>
@@ -60,11 +61,20 @@ Free
 
 PROCESS
 ==============================
-- Pull and clean the repo + submodules
-- Switch to latest tag
-- Open project in Unity
-- Run mass labeller script
+- Fetch latest core + store:
+  http://library.soom.la/fetch/unity3d-core/latest
+  http://library.soom.la/fetch/unity3d-store/latest
+
+- Less preferred alternative: pull and clean the repo + submodules, switch to latest tag
+- Open a new project in Unity
+- Import core + store Unity packages
+- Copy in the Examples and Resources folders, and the scene, from unity3d-store:
+  cp -R ~/source/unity3d-store/Soomla/Assets/Examples ~/source/unity3d-store/Soomla/Assets/Resources <BUILD PROJECT>/Assets/
+  cp -R ~/source/unity3d-store/Soomla/Assets/scene.unity Assets/Examples/
+
+- Run mass labeler script
 - Switch back to the Unity Editor and let it re-import
+- Make sure there are no compilation errors
 - Upload with Asset Store Tools (select root /Assets folder)
 
 
@@ -95,6 +105,7 @@ PACKAGE DESCRIPTION
 - 모든 플랫폼을 위한 하나의 API<br>
 - 지원하는 결제: Apple App Store, Google Play & Amazon<br>
 - 훌륭한 <a href="https://www.assetstore.unity3d.com/kr/#!/content/22628">Simple IAP플러그인</a>도 SOOMLA SDK를 사용합니다<br>
+- 훌륭한 <a href="https://www.assetstore.unity3d.com/kr/#!/content/31343">SOOMLA Template플러그인</a>도 SOOMLA SDK를 사용합니다<br>
 <br>
 <a href="http://soom.la/?utm_source=unity_asset_store">웹 사이트</a> | <a href="http://know.soom.la/unity/store/?utm_source=unity_asset_store">문서</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">동영상</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">게시판</a><br>
 <br>
@@ -143,6 +154,7 @@ PACKAGE DESCRIPTION
 - 所有平台只需一个API<br>
 - 支持内购付费的应用商店平台：苹果App Store，谷歌Google Play 和亚马逊应用商店<br>
 - 整合了优秀的<a href="https://www.assetstore.unity3d.com/cn/#!/content/22628">“Simple IAP”</a>插件<br>
+- 整合了优秀的<a href="https://www.assetstore.unity3d.com/cn/#!/content/31343">“SOOMLA Template”</a>插件<br>
 
 <br>
  <a href="http://soom.la/?utm_source=unity_asset_store">网站</a> | <a href="http://know.soom.la/unity/store/?utm_source=unity_asset_store">文档</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">视频</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">论坛</a><br>
@@ -191,6 +203,7 @@ PACKAGE DESCRIPTION
 - 全てのプラットフォームに共通なAPI<br>
 - 支払い対応サービス：App Store、Google Play、Amazon<br>
 - <a href="https://www.assetstore.unity3d.com/jp/#!/content/22628">Simple IAP plugin</a>との連動<br>
+- <a href="https://www.assetstore.unity3d.com/jp/#!/content/31343">SOOMLA Template</a>との連動<br>
 <br>
 <a href="http://soom.la/?utm_source=unity_asset_store">ウェブサイト</a> | <a href="http://know.soom.la/unity/store/?utm_source=unity_asset_store">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">ビデオ</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">フォーラム</a><br>
 <br>
