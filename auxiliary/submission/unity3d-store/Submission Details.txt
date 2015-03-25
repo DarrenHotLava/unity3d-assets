@@ -69,8 +69,8 @@ PROCESS
 - Open a new project in Unity
 - Import core + store Unity packages
 - Copy in the Examples and Resources folders, and the scene, from unity3d-store:
-  cp -R ~/source/unity3d-store/Soomla/Assets/Examples ~/source/unity3d-store/Soomla/Assets/Resources <BUILD PROJECT>/Assets/
-  cp -R ~/source/unity3d-store/Soomla/Assets/scene.unity Assets/Examples/
+  cp -R ~/source/unity3d-store/Soomla/Assets/Examples ~/source/unity3d-store/Soomla/Assets/Resources ~/source/unity3d-assets/unity3d-store-submission/Assets/
+  cp -R ~/source/unity3d-store/Soomla/Assets/scene.unity ~/source/unity3d-assets/unity3d-store-submission/Assets/Examples/MuffinRush/
 
 - Run mass labeler script
 - Switch back to the Unity Editor and let it re-import
