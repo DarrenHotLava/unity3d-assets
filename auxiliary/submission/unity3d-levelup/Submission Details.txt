@@ -17,10 +17,10 @@ Our free and open-source Unity LevelUp plugin is here to help you design your ga
 
 <br>
 <br>
-** Thousands of games already use SOOMLA **
+** Thousands of games use SOOMLA **
 <br>
 <br>
-<a href="http://soom.la/?utm_source=unity_asset_store">Website</a> | <a href="http://know.soom.la/unity/levelup/?utm_source=unity_asset_store">Docs</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">Videos</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">Forum</a>
+<a href="http://soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">Website</a> | <a href="http://know.soom.la/unity/levelup/?utm_source=soomla_levelup&utm_medium=unity_plugin">Docs</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_levelup&utm_medium=unity_plugin">Videos</a> | <a href="http://answers.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">Forum</a>
 <br>
 <br>
 LevelUp encourages better game design with a rich object domain of:<br>
@@ -37,13 +37,13 @@ Also, an encrypted on-device storage will keep the user's game state even after 
 <br>
 <br>
 
-Make sure to go over the <a href="http://github.com/soomla/unity3d-levelup">integration instructions</a> and to check out our <a href="http://know.soom.la/unity/levelup/levelup_gameexample/?utm_source=unity_asset_store">example game tutorial</a>
+Make sure to go over the <a href="http://github.com/soomla/unity3d-levelup">integration instructions</a> and to check out our <a href="http://know.soom.la/unity/levelup/levelup_gameexample/?utm_source=soomla_levelup&utm_medium=unity_plugin">example game tutorial</a>
 <br>
 <br>
 
 Open Source project: <a href="http://github.com/soomla/unity3d-levelup">http://github.com/soomla/unity3d-levelup</a><br>
-More docs and articles at: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
-Forums at: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
+More docs and articles at: <a href="http://know.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">http://know.soom.la</a><br>
+Forums at: <a href="http://answers.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">http://answers.soom.la</a>
 
 
 
@@ -63,14 +63,25 @@ Free
 
 PROCESS
 ==============================
-- Pull and clean the repo + submodules
-- Switch to latest tag
-- Open project in Unity
-- Run mass labeller script
-- Switch back to the Unity Editor and let it re-import
-- Delete /Assets/Facebook and /Assets/Plugins/Facebook
-- Upload with Asset Store Tools (select root /Assets folder)
+- Fetch latest core + store + profile + levelup:
+  http://library.soom.la/fetch/unity3d-core/latest
+  http://library.soom.la/fetch/unity3d-store/latest
+  http://library.soom.la/fetch/unity3d-profile/latest
+  http://library.soom.la/fetch/unity3d-levelup/latest
 
+- Less preferred alternative: pull and clean the repo + submodules, switch to latest tag
+- Open a new project in Unity
+- Import core + levelup Unity packages
+- Copy in the Examples/MuffinRush and Resources folders, and the scene, from unity3d-levelup:
+  mkdir ~/source/unity3d-assets/unity3d-levelup-submission/Assets/Examples
+  cp -R ~/source/unity3d-levelup/Soomla/Assets/Examples/MuffinRush ~/source/unity3d-assets/unity3d-levelup-submission/Assets/Examples/
+  cp -R ~/source/unity3d-levelup/Soomla/Assets/scene.unity ~/source/unity3d-assets/unity3d-levelup-submission/Assets/Examples/MuffinRush/
+  cp -R ~/source/unity3d-levelup/Soomla/Assets/Resources ~/source/unity3d-assets/unity3d-levelup-submission/Assets/
+
+- Run mass labeler script
+- Switch back to the Unity Editor and let it re-import
+- Make sure there are no compilation errors
+- Upload with Asset Store Tools (select root /Assets folder)
 
 
 
@@ -97,7 +108,7 @@ PACKAGE DESCRIPTION
 **이미 수천개의 게임들이 SOOMLA를 사용하고 있습니다**
 <br>
 <br>
-<a href="http://soom.la/?utm_source=unity_asset_store">웹 사이트</a> | <a href="http://know.soom.la/unity/levelup/?utm_source=unity_asset_store">문서</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">동영상</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">게시판</a><br>
+<a href="http://soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">웹 사이트</a> | <a href="http://know.soom.la/unity/levelup/?utm_source=soomla_levelup&utm_medium=unity_plugin">문서</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_levelup&utm_medium=unity_plugin">동영상</a> | <a href="http://answers.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">게시판</a><br>
 <br>
 <br>
 
@@ -115,16 +126,16 @@ LevelUp은 아래의 컨텐츠를 추가함으로써, 보다 훌륭한 게임 �
 <br>
 <br>
 
-반드시 <a href="http://github.com/soomla/unity3d-levelup">통합 설명서</a>와 함께 <a href="http://know.soom.la/unity/levelup/levelup_gameexample/?utm_source=unity_asset_store">게임 방법</a>을 참조하시기 바랍니다.
+반드시 <a href="http://github.com/soomla/unity3d-levelup">통합 설명서</a>와 함께 <a href="http://know.soom.la/unity/levelup/levelup_gameexample/?utm_source=soomla_levelup&utm_medium=unity_plugin">게임 방법</a>을 참조하시기 바랍니다.
 
-<a href="http://know.soom.la/unity/levelup/?utm_source=unity_asset_store">반드시 통합 설명서와 예제게임 튜토리얼을 참조하시기 바랍니다.</a>
+<a href="http://know.soom.la/unity/levelup/?utm_source=soomla_levelup&utm_medium=unity_plugin">반드시 통합 설명서와 예제게임 튜토리얼을 참조하시기 바랍니다.</a>
 
 <br>
 <br>
 
 오픈 소스 프로젝트: <a href="http://github.com/soomla/unity3d-levelup">http://github.com/soomla/unity3d-levelup</a><br>
-추가 문서 및 기사: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
-게시판: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
+추가 문서 및 기사: <a href="http://know.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">http://know.soom.la</a><br>
+게시판: <a href="http://answers.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">http://answers.soom.la</a>
 
 
 
@@ -149,7 +160,7 @@ PACKAGE DESCRIPTION
 **成千上万的游戏已经使用SOOMLA **
 <br>
 <br>
-<a href="http://soom.la/?utm_source=unity_asset_store">网站</a> | <a href="http://know.soom.la/unity/levelup/?utm_source=unity_asset_store">文档</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">视频</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">论坛</a><br>
+<a href="http://soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">网站</a> | <a href="http://know.soom.la/unity/levelup/?utm_source=soomla_levelup&utm_medium=unity_plugin">文档</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_levelup&utm_medium=unity_plugin">视频</a> | <a href="http://answers.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">论坛</a><br>
 <br>
 <br>
 LevelUp插件会使用以下元素来帮助您设计更好的游戏：<br>
@@ -167,13 +178,13 @@ LevelUp插件会使用以下元素来帮助您设计更好的游戏：<br>
 <br>
 <br>
 
-确保查看<a href="http://github.com/soomla/unity3d-levelup">整合说明</a>和<a href="http://know.soom.la/unity/levelup/levelup_gameexample/?utm_source=unity_asset_store">示例游戏教程</a>
+确保查看<a href="http://github.com/soomla/unity3d-levelup">整合说明</a>和<a href="http://know.soom.la/unity/levelup/levelup_gameexample/?utm_source=soomla_levelup&utm_medium=unity_plugin">示例游戏教程</a>
 <br>
 <br>
 
 开源项目: <a href="http://github.com/soomla/unity3d-levelup">http://github.com/soomla/unity3d-levelup</a><br>
-更多的文档和文章: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
-论坛: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
+更多的文档和文章: <a href="http://know.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">http://know.soom.la</a><br>
+论坛: <a href="http://answers.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">http://answers.soom.la</a>
 
 
 
@@ -199,7 +210,7 @@ PACKAGE DESCRIPTION
 ** SOOMLAは既に何千というゲームで使用されています **
 <br>
 <br>
-<a href="http://soom.la/?utm_source=unity_asset_store">ウェブサイト</a> | <a href="http://know.soom.la/unity/levelup/?utm_source=unity_asset_store">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">ビデオ</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">フォーラム</a><br>
+<a href="http://soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">ウェブサイト</a> | <a href="http://know.soom.la/unity/levelup/?utm_source=soomla_levelup&utm_medium=unity_plugin">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_levelup&utm_medium=unity_plugin">ビデオ</a> | <a href="http://answers.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">フォーラム</a><br>
 <br>
 <br>
 
@@ -218,10 +229,10 @@ LevelUpで以下の対象領域をデザインすることが可能です:<br>
 <br>
 <br>
 
-必ずこちらもお読み下さい： <a href="http://github.com/soomla/unity3d-levelup">統合説明書</a>、 <a href="http://know.soom.la/unity/levelup/levelup_gameexample/?utm_source=unity_asset_store">例を使ったチュートリアル</a>
+必ずこちらもお読み下さい： <a href="http://github.com/soomla/unity3d-levelup">統合説明書</a>、 <a href="http://know.soom.la/unity/levelup/levelup_gameexample/?utm_source=soomla_levelup&utm_medium=unity_plugin">例を使ったチュートリアル</a>
 <br>
 <br>
 
 オープンソースプロジェクト: <a href="http://github.com/soomla/unity3d-levelup">http://github.com/soomla/unity3d-levelup</a><br>
-さらに多くのドキュメントや記事: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
-フォーラム: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
+さらに多くのドキュメントや記事: <a href="http://know.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">http://know.soom.la</a><br>
+フォーラム: <a href="http://answers.soom.la/?utm_source=soomla_levelup&utm_medium=unity_plugin">http://answers.soom.la</a>

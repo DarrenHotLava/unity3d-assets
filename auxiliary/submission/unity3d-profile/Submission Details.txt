@@ -16,10 +16,10 @@ We support <strong>Facebook</strong>,  <strong>Twitter</strong> and <strong>Goog
 
 <br>
 <br>
-** Thousands of games already use SOOMLA **
+** Thousands of games use SOOMLA **
 <br>
 <br>
-<a href="http://soom.la/?utm_source=unity_asset_store">Website</a> | <a href="http://know.soom.la/unity/profile/?utm_source=unity_asset_store">Docs</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">Videos</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">Forum</a>
+<a href="http://soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">Website</a> | <a href="http://know.soom.la/unity/profile/?utm_source=soomla_profile&utm_medium=unity_plugin">Docs</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_profile&utm_medium=unity_plugin">Videos</a> | <a href="http://answers.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">Forum</a>
 <br>
 <br>
 With this plugin you can boost your game with:<br>
@@ -46,8 +46,8 @@ Make sure to go over the <a href="http://github.com/soomla/unity3d-profile">inte
 <br>
 
 Open Source project: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
-More docs and articles at: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
-Forums at: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
+More docs and articles at: <a href="http://know.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">http://know.soom.la</a><br>
+Forums at: <a href="http://answers.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">http://answers.soom.la</a>
 
 
 
@@ -111,7 +111,7 @@ PACKAGE DESCRIPTION
 **이미 수천개의 게임들이 SOOMLA를 사용하고 있습니다**
 <br>
 <br>
-<a href="http://soom.la/?utm_source=unity_asset_store">웹 사이트</a> | <a href="http://know.soom.la/unity/profile/?utm_source=unity_asset_store">문서</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">동영상</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">게시판</a><br>
+<a href="http://soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">웹 사이트</a> | <a href="http://know.soom.la/unity/profile/?utm_source=soomla_profile&utm_medium=unity_plugin">문서</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_profile&utm_medium=unity_plugin">동영상</a> | <a href="http://answers.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">게시판</a><br>
 <br>
 <br>
 이 플러그인으로 다음 기능들을 활용해 게임을 더욱 활성화 해 보세요:<br>
@@ -138,8 +138,8 @@ PACKAGE DESCRIPTION
 <br>
 
 오픈 소스 프로젝트: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
-추가 문서 및 기사: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
-게시판: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
+추가 문서 및 기사: <a href="http://know.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">http://know.soom.la</a><br>
+게시판: <a href="http://answers.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">http://answers.soom.la</a>
 
 
 
@@ -164,7 +164,7 @@ PACKAGE DESCRIPTION
 **成千上万的游戏已经使用SOOMLA **
 <br>
 <br>
-<a href="http://soom.la/?utm_source=unity_asset_store">网站</a> | <a href="http://know.soom.la/unity/profile/?utm_source=unity_asset_store">文档</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">视频</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">论坛</a><br>
+<a href="http://soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">网站</a> | <a href="http://know.soom.la/unity/profile/?utm_source=soomla_profile&utm_medium=unity_plugin">文档</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_profile&utm_medium=unity_plugin">视频</a> | <a href="http://answers.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">论坛</a><br>
 <br>
 <br>
 有了这个插件，你可以通过以下功能加强你的游戏：<br>
@@ -190,8 +190,8 @@ PACKAGE DESCRIPTION
 <br>
 
 开源项目: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
-更多的文档和文章: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
-论坛: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
+更多的文档和文章: <a href="http://know.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">http://know.soom.la</a><br>
+论坛: <a href="http://answers.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">http://answers.soom.la</a>
 
 
 
@@ -217,7 +217,7 @@ PACKAGE DESCRIPTION
 ** SOOMLAは既に何千というゲームで使用されています **
 <br>
 <br>
-<a href="http://soom.la/?utm_source=unity_asset_store">ウェブサイト</a> | <a href="http://know.soom.la/unity/profile/?utm_source=unity_asset_store">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=unity_asset_store">ビデオ</a> | <a href="http://answers.soom.la/?utm_source=unity_asset_store">フォーラム</a><br>
+<a href="http://soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">ウェブサイト</a> | <a href="http://know.soom.la/unity/profile/?utm_source=soomla_profile&utm_medium=unity_plugin">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_profile&utm_medium=unity_plugin">ビデオ</a> | <a href="http://answers.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">フォーラム</a><br>
 <br>
 <br>
 このプラグインで以下の機能が使用できます：<br>
@@ -243,5 +243,5 @@ PACKAGE DESCRIPTION
 <br>
 
 オープンソースプロジェクト: <a href="http://github.com/soomla/unity3d-profile">http://github.com/soomla/unity3d-profile</a><br>
-さらに多くのドキュメントや記事: <a href="http://know.soom.la/?utm_source=unity_asset_store">http://know.soom.la</a><br>
-フォーラム: <a href="http://answers.soom.la/?utm_source=unity_asset_store">http://answers.soom.la</a>
+さらに多くのドキュメントや記事: <a href="http://know.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">http://know.soom.la</a><br>
+フォーラム: <a href="http://answers.soom.la/?utm_source=soomla_profile&utm_medium=unity_plugin">http://answers.soom.la</a>
