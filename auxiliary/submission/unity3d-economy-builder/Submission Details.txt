@@ -10,21 +10,26 @@ Easily add in app purchase to your game with our editor extension.  Sell coins, 
 - A rich economy model<br>
 - Simple management of user balances<br>
 - Encrypted on-device storage<br>
-- Supported billing: Apple, Google & Amazon<br>
+- Supported billing: Apple App Store, Google Play, Amazon, Windows Store<br>
+- Receipt validation for Apple and Google.<br>
 - One API for all platforms<br>
 <br>
 <br>
 If you already use SOOMLA, this plugin is exactly what you need.  All free to play games use IAP to monetize. SOOMLA offers you a free and easy way to do this. Our Unity <strong>in-app purchase</strong> plugin is the best tool to model your virtual economy and integrate IAP into your game.
 <br>
 <br>
-** Thousands of games already use SOOMLA **
+** Thousands of games use SOOMLA **
 <br>
 <br>
-<a href="http://soom.la">Website</a> | <a href="http://know.soom.la/unity/store/">Docs</a> | <a href="http://know.soom.la/docs/university/videos/">Videos</a> | <a href="http://answers.soom.la">Forum</a><br>
+<a href="http://soom.la/?utm_source=soomla_iap_builder&utm_medium=unity_plugin">Website</a> |
+<a href="http://know.soom.la/unity/store/?utm_source=soomla_iap_builder&utm_medium=unity_plugin">Docs</a> |
+<a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_iap_builder&utm_medium=unity_plugin">Videos</a> |
+<a href="http://answers.soom.la/?utm_source=soomla_iap_builder&utm_medium=unity_plugin">Forum</a>
 <br>
 <br>
-More docs and articles at: <a href="http://know.soom.la">http://know.soom.la</a><br>
-Forums at: <a href="http://answers.soom.la">http://answers.soom.la</a>
+<br>
+More docs and articles at: <a href="http://know.soom.la/?utm_source=soomla_iap_builder&utm_medium=unity_plugin">http://know.soom.la</a><br>
+Forums at: <a href="http://answers.soom.la/?utm_source=soomla_iap_builder&utm_medium=unity_plugin">http://answers.soom.la</a>
 
 
 
