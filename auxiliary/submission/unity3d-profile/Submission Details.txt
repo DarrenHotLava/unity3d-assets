@@ -11,6 +11,8 @@ Facebook, Twitter, Google+ Social SDK - SOOMLA Profile
 
 PACKAGE DESCRIPTION
 ==============================
+<strong>This plugin is also available for free for developers who use GROW analytics - <a href="https://doorman.soom.la/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Fdashboard.soom.la%2Fauth%2Fdoorman%2Fcallback&scope=own&client_id=growDashboard&referrer=soomla_profile/unity_plugin">Sign up and download</a></strong><br><br>
+
 Socialize your games! Our Unity <strong>Profile</strong> plugin is the best tool to integrate Social networks into your game.
 We support <strong>Facebook</strong>,  <strong>Twitter</strong> and <strong>Google+</strong> ! All major social networks in one plugin with the same API!
 
@@ -103,6 +105,8 @@ Facebook, Twitter, Google+ Social SDK - SOOMLA Profile
 
 PACKAGE DESCRIPTION
 ==============================
+<strong>This plugin is also available for free for developers who use GROW analytics - <a href="https://doorman.soom.la/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Fdashboard.soom.la%2Fauth%2Fdoorman%2Fcallback&scope=own&client_id=growDashboard&referrer=soomla_profile/unity_plugin">Sign up and download</a></strong><br><br>
+
 소셜 미디어를 이용하여 당신의 게임을 알리세요! 저희의 <strong>Unity Profile</strong> 플러그인은 당신의 게임을 소셜 네트워크로 연결할 수 있게 해주는 최고의 도구입니다.
 <strong>Facebook, Twitter,Google+</strong> 모두 가능합니다! 한 플러그인으로 모든 주요 소셜 네트워크를 같은 API에 쓰실 수가 있습니다.
 
@@ -156,6 +160,8 @@ Facebook，Twitter，Google+ 社交SDK - SOOMLA Profile
 
 PACKAGE DESCRIPTION
 ==============================
+<strong>This plugin is also available for free for developers who use GROW analytics - <a href="https://doorman.soom.la/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Fdashboard.soom.la%2Fauth%2Fdoorman%2Fcallback&scope=own&client_id=growDashboard&referrer=soomla_profile/unity_plugin">Sign up and download</a></strong><br><br>
+
 让您的游戏参与社交吧！我们的Unity <strong>Profile</strong>插件是将社交网络整合到你的游戏中的最佳工具。
 我们支持<strong>Facebook</strong>，<strong>Twitter</strong>和<strong>Google+</strong>！使用一款插件及同样的API即可整合所有主要社交网络。
 
@@ -209,6 +215,8 @@ Facebook, Twitter, Google+ ソーシャルSDK - SOOMLA Profile
 
 PACKAGE DESCRIPTION
 ==============================
+<strong>This plugin is also available for free for developers who use GROW analytics - <a href="https://doorman.soom.la/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Fdashboard.soom.la%2Fauth%2Fdoorman%2Fcallback&scope=own&client_id=growDashboard&referrer=soomla_profile/unity_plugin">Sign up and download</a></strong><br><br>
+
 あなたのゲームを「ソーシャル化」しましょう！ソーシャルメディアをゲームに統合するにはUnity <strong>Profile</strong>が最高の選択肢です。
 対応しているソーシャルメディアは<strong>Facebook</strong>、<strong>Twitter</strong> 、<strong>Google+</strong> です！全てのメジャーなソーシャルメディアを同じAPIを使いひとつのプラグインで管理しましょう！
 

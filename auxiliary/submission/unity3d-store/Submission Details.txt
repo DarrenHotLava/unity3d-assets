@@ -11,6 +11,8 @@ Store - In App Purchase
 
 PACKAGE DESCRIPTION
 ==============================
+<strong>This plugin is also available for free for developers who use GROW analytics - <a href="https://doorman.soom.la/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Fdashboard.soom.la%2Fauth%2Fdoorman%2Fcallback&scope=own&client_id=growDashboard&referrer=soomla_store/unity_plugin">Sign up and download</a></strong><br><br>
+
 Easily add in app purchase to your game.  SOOMLA Store lets you build anything from a simple "Remove Ads" button to elaborate virtual economies with coins, goods, upgrades and coin packs.  With this plugin you get: <br>
 - A rich economy model<br>
 - Simple management of user balances<br>
@@ -96,6 +98,7 @@ Store - 모바일 결제
 
 PACKAGE DESCRIPTION
 ==============================
+<strong>This plugin is also available for free for developers who use GROW analytics - <a href="https://doorman.soom.la/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Fdashboard.soom.la%2Fauth%2Fdoorman%2Fcallback&scope=own&client_id=growDashboard&referrer=soomla_store/unity_plugin">Sign up and download</a></strong><br><br>
 
 모바일 결제를 게임으로 손쉽게 추가하세요. SOOMLA Store는 “광고 제거” 상품을 판매하거나, 게임 내 아이템, 상품, 업그레이드 및 코인 팩과 같은 다양한 컨텐츠 생성을 가능하게 해 드립니다. 해당 플러그인으로: <br>
 
@@ -147,6 +150,8 @@ Store - 应用程序内购
 
 PACKAGE DESCRIPTION
 ==============================
+<strong>This plugin is also available for free for developers who use GROW analytics - <a href="https://doorman.soom.la/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Fdashboard.soom.la%2Fauth%2Fdoorman%2Fcallback&scope=own&client_id=growDashboard&referrer=soomla_store/unity_plugin">Sign up and download</a></strong><br><br>
+
 在你的游戏中轻松添加应用内购功能。无论是简单的“移除广告”按钮，还是功能多样的整 合虚拟货币、物品、升级以及货币包的虚拟经济系统，SOOMLA Store插件都能轻松让你制 作这些功能。使用这个插件您能使用以下功能：<br>
 
 - 个完整丰富的经济模型<br>
@@ -197,6 +202,8 @@ Store - アプリ内購入
 
 PACKAGE DESCRIPTION
 ==============================
+<strong>This plugin is also available for free for developers who use GROW analytics - <a href="https://doorman.soom.la/oauth/authorize?response_type=code&redirect_uri=http%3A%2F%2Fdashboard.soom.la%2Fauth%2Fdoorman%2Fcallback&scope=own&client_id=growDashboard&referrer=soomla_store/unity_plugin">Sign up and download</a></strong><br><br>
+
 簡単にあなたのゲームにアプリ内購入を実装できます。SOOMLA Storeを活用して、“広告を取り除く”ボタンや、コイン、商品、アップグレード、コインパッケージと言った精巧なバーチャルエコノミーを作り上げましょう。このプラグインで以下のことができるようになります：<br>
 - 高機能エコノミーモデル<br>
 - ユーザーの支払い情報をシンプルに管理<br>
