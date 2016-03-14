@@ -23,7 +23,7 @@ Easily add in app purchase to your game.  SOOMLA Store lets you build anything f
 - Supported plugins:<br>
 <a href="https://www.assetstore.unity3d.com/en/#!/content/22628">Simple IAP</a>  |  <a href="https://www.assetstore.unity3d.com/en/#!/content/31343">SOOMLA Template</a><br>
 <br>
-<a href="http://soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">Website</a> | <a href="http://know.soom.la/unity/store/?utm_source=soomla_store&utm_medium=unity_plugin">Docs</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_store&utm_medium=unity_plugin">Videos</a> | <a href="http://answers.soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">Forum</a><br>
+<a href="http://soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">Website</a> | <a href="http://know.soom.la/soomla/unity/store/?utm_source=soomla_store&utm_medium=unity_plugin">Docs</a> | <a href="http://know.soom.la/university/videos/?utm_source=soomla_store&utm_medium=unity_plugin">Videos</a> | <a href="http://answers.soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">Forum</a><br>
 <br>
 ** Thousands of games use SOOMLA **
 <br>
@@ -62,6 +62,10 @@ PRICES
 ==============================
 Free
 
+Metadata - SEO Keywords
+==============================
+soomla store storekit native prime31 iap billing in-app purchase purchases coins fraud receipt verification monetization transaction payment analytics revenue
+
 PROCESS
 ==============================
 - Fetch latest core + store:
@@ -72,8 +76,8 @@ PROCESS
 - Open a new project in Unity
 - Import core + store Unity packages
 - Copy in the Examples and Resources folders, and the scene, from unity3d-store:
-  cp -R ~/source/unity3d-store/Soomla/Assets/Examples ~/source/unity3d-store/Soomla/Assets/Resources ~/source/unity3d-assets/unity3d-store-submission/Assets/
-  cp -R ~/source/unity3d-store/Soomla/Assets/scene.unity ~/source/unity3d-assets/unity3d-store-submission/Assets/Examples/MuffinRush/
+  cp -R ~/source/soomla-open-source/unity3d-store/Soomla/Assets/Examples ~/source/soomla-open-source/unity3d-store/Soomla/Assets/Resources ~/source/soomla-open-source/unity3d-assets/unity3d-store-submission/Assets/
+  cp -R ~/source/soomla-open-source/unity3d-store/Soomla/Assets/scene.unity ~/source/soomla-open-source/unity3d-assets/unity3d-store-submission/Assets/Examples/MuffinRush/
 
 - Run mass labeler script
 - Switch back to the Unity Editor and let it re-import
@@ -111,7 +115,7 @@ PACKAGE DESCRIPTION
 - 훌륭한 <a href="https://www.assetstore.unity3d.com/kr/#!/content/22628">Simple IAP플러그인</a>도 SOOMLA SDK를 사용합니다<br>
 - 훌륭한 <a href="https://www.assetstore.unity3d.com/kr/#!/content/31343">SOOMLA Template플러그인</a>도 SOOMLA SDK를 사용합니다<br>
 <br>
-<a href="http://soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">웹 사이트</a> | <a href="http://know.soom.la/unity/store/?utm_source=soomla_store&utm_medium=unity_plugin">문서</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_store&utm_medium=unity_plugin">동영상</a> | <a href="http://answers.soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">게시판</a><br>
+<a href="http://soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">웹 사이트</a> | <a href="http://know.soom.la/soomla/unity/store/?utm_source=soomla_store&utm_medium=unity_plugin">문서</a> | <a href="http://know.soom.la/university/videos/?utm_source=soomla_store&utm_medium=unity_plugin">동영상</a> | <a href="http://answers.soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">게시판</a><br>
 <br>
 ** 이미 수천개의 게임들이 SOOMLA를 사용하고 있습니다 **<br>
 <br>
@@ -163,7 +167,7 @@ PACKAGE DESCRIPTION
 - 整合了优秀的<a href="https://www.assetstore.unity3d.com/cn/#!/content/31343">“SOOMLA Template”</a>插件<br>
 
 <br>
- <a href="http://soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">网站</a> | <a href="http://know.soom.la/unity/store/?utm_source=soomla_store&utm_medium=unity_plugin">文档</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_store&utm_medium=unity_plugin">视频</a> | <a href="http://answers.soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">论坛</a><br>
+ <a href="http://soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">网站</a> | <a href="http://know.soom.la/soomla/unity/store/?utm_source=soomla_store&utm_medium=unity_plugin">文档</a> | <a href="http://know.soom.la/university/videos/?utm_source=soomla_store&utm_medium=unity_plugin">视频</a> | <a href="http://answers.soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">论坛</a><br>
 <br>
 **成千上万的游戏已经使用SOOMLA **
 <br>
@@ -213,7 +217,7 @@ PACKAGE DESCRIPTION
 - <a href="https://www.assetstore.unity3d.com/jp/#!/content/22628">Simple IAP plugin</a>との連動<br>
 - <a href="https://www.assetstore.unity3d.com/jp/#!/content/31343">SOOMLA Template</a>との連動<br>
 <br>
-<a href="http://soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">ウェブサイト</a> | <a href="http://know.soom.la/unity/store/?utm_source=soomla_store&utm_medium=unity_plugin">ドキュメント</a> | <a href="http://know.soom.la/docs/university/videos/?utm_source=soomla_store&utm_medium=unity_plugin">ビデオ</a> | <a href="http://answers.soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">フォーラム</a><br>
+<a href="http://soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">ウェブサイト</a> | <a href="http://know.soom.la/soomla/unity/store/?utm_source=soomla_store&utm_medium=unity_plugin">ドキュメント</a> | <a href="http://know.soom.la/university/videos/?utm_source=soomla_store&utm_medium=unity_plugin">ビデオ</a> | <a href="http://answers.soom.la/?utm_source=soomla_store&utm_medium=unity_plugin">フォーラム</a><br>
 <br>
 ** SOOMLAは既に何千というゲームで使用されています **
 <br>
